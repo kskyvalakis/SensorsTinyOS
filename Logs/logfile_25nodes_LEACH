@@ -1,0 +1,507 @@
+0:0:10.000000020 DEBUG (0): AdTimer.fired()
+0:0:10.000000020 DEBUG (0): CH decision with LeachRound:0 EPOCH:0 RandResult:0.246021
+0:0:10.000000020 DEBUG (0): CH at depth: 0 at round 0 | ROOT
+0:0:10.000000020 DEBUG (0): I am a CH!
+0:0:10.000000020 DEBUG (0): AdMsg sending...!!!!
+0:0:10.000000020 DEBUG (0): sendAdTask() posted!!
+0:0:10.000000020 DEBUG (0): AdMsg enqueued successfully in AdSendQueue!!!
+0:0:10.000000030 DEBUG (0): sendAdTask(): AdAMSend.send success!
+0:0:10.007736190 DEBUG (6): AdReceive.receive from 0
+0:0:10.007736190 DEBUG (5): AdReceive.receive from 0
+0:0:10.007736190 DEBUG (1): AdReceive.receive from 0
+0:0:10.007736200 DEBUG (6): Accepted Ad from 0
+0:0:10.007736200 DEBUG (5): Accepted Ad from 0
+0:0:10.007736200 DEBUG (1): Accepted Ad from 0
+0:0:10.007904036 DEBUG (0): AdAMSend.sendDone: True
+0:0:10.197845484 DEBUG (6): curdepth= 1 , parentID= 0
+0:0:10.197845484 DEBUG (5): curdepth= 1 , parentID= 0
+0:0:10.197845484 DEBUG (1): curdepth= 1 , parentID= 0
+0:0:10.197845494 DEBUG (1): AdTimer.fired()
+0:0:10.197845494 DEBUG (1): CH decision with LeachRound:0 EPOCH:0 RandResult:0.089995
+0:0:10.197845494 DEBUG (1): CH at depth: 1 at round 0| LeachRound == 0
+0:0:10.197845494 DEBUG (1): I am a CH!
+0:0:10.197845494 DEBUG (1): AdMsg sending...!!!!
+0:0:10.197845494 DEBUG (1): sendAdTask() posted!!
+0:0:10.197845494 DEBUG (1): AdMsg enqueued successfully in AdSendQueue!!!
+0:0:10.197845504 DEBUG (1): sendAdTask(): AdAMSend.send success!
+0:0:10.199920687 DEBUG (7): AdReceive.receive from 1
+0:0:10.199920687 DEBUG (6): AdReceive.receive from 1
+0:0:10.199920687 DEBUG (5): AdReceive.receive from 1
+0:0:10.199920687 DEBUG (2): AdReceive.receive from 1
+0:0:10.199920687 DEBUG (0): AdReceive.receive from 1
+0:0:10.199920697 DEBUG (7): Accepted Ad from 1
+0:0:10.199920697 DEBUG (6): Accepted Ad from 1
+0:0:10.199920697 DEBUG (5): Accepted Ad from 1
+0:0:10.199920697 DEBUG (2): Accepted Ad from 1
+0:0:10.199920697 DEBUG (0): Discarding received Ad from 1 because I am a CH!
+0:0:10.200088533 DEBUG (1): AdAMSend.sendDone: True
+0:0:10.395278945 DEBUG (7): curdepth= 2 , parentID= 1
+0:0:10.395278945 DEBUG (2): curdepth= 2 , parentID= 1
+0:0:10.395278955 DEBUG (2): AdTimer.fired()
+0:0:10.395278955 DEBUG (2): CH decision with LeachRound:0 EPOCH:0 RandResult:0.318931
+0:0:10.395278955 DEBUG (2): I am NOT a CH!
+0:0:10.397354128 DEBUG (11): curdepth= 2 , parentID= 5
+0:0:10.397354128 DEBUG (10): curdepth= 2 , parentID= 5
+0:0:10.402770967 DEBUG (12): curdepth= 2 , parentID= 6
+0:0:10.594146745 DEBUG (16): curdepth= 3 , parentID= 10
+0:0:10.594146745 DEBUG (15): curdepth= 3 , parentID= 10
+0:0:10.594680788 DEBUG (13): curdepth= 3 , parentID= 7
+0:0:10.594680788 DEBUG (3): curdepth= 3 , parentID= 7
+0:0:10.594680788 DEBUG (8): curdepth= 3 , parentID= 7
+0:0:10.594680798 DEBUG (3): AdTimer.fired()
+0:0:10.594680798 DEBUG (3): CH decision with LeachRound:0 EPOCH:0 RandResult:0.894334
+0:0:10.594680798 DEBUG (3): I am NOT a CH!
+0:0:10.603271482 DEBUG (18): curdepth= 3 , parentID= 12
+0:0:10.603271482 DEBUG (17): curdepth= 3 , parentID= 12
+0:0:10.792465221 DEBUG (19): curdepth= 4 , parentID= 13
+0:0:10.792465221 DEBUG (9): curdepth= 4 , parentID= 13
+0:0:10.792465221 DEBUG (14): curdepth= 4 , parentID= 13
+0:0:10.794143677 DEBUG (4): curdepth= 4 , parentID= 3
+0:0:10.794143687 DEBUG (4): AdTimer.fired()
+0:0:10.794143687 DEBUG (4): CH decision with LeachRound:0 EPOCH:0 RandResult:0.654732
+0:0:10.794143687 DEBUG (4): I am NOT a CH!
+0:0:10.797149642 DEBUG (21): curdepth= 4 , parentID= 15
+0:0:10.797149642 DEBUG (20): curdepth= 4 , parentID= 15
+0:0:10.798889134 DEBUG (22): curdepth= 4 , parentID= 16
+0:0:10.807907077 DEBUG (24): curdepth= 4 , parentID= 18
+0:0:10.976562510 DEBUG (5): AdTimer.fired()
+0:0:10.976562510 DEBUG (5): CH decision with LeachRound:0 EPOCH:0 RandResult:0.871824
+0:0:10.976562510 DEBUG (5): I am NOT a CH!
+0:0:10.990554822 DEBUG (23): curdepth= 5 , parentID= 19
+0:0:11.171875010 DEBUG (6): AdTimer.fired()
+0:0:11.171875010 DEBUG (6): CH decision with LeachRound:0 EPOCH:0 RandResult:0.234174
+0:0:11.171875010 DEBUG (6): CH at depth: 1 at round 0| LeachRound == 0
+0:0:11.171875010 DEBUG (6): I am a CH!
+0:0:11.171875010 DEBUG (6): AdMsg sending...!!!!
+0:0:11.171875010 DEBUG (6): sendAdTask() posted!!
+0:0:11.171875010 DEBUG (6): AdMsg enqueued successfully in AdSendQueue!!!
+0:0:11.171875020 DEBUG (6): sendAdTask(): AdAMSend.send success!
+0:0:11.176574700 DEBUG (12): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (11): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (10): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (2): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (0): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (1): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (7): AdReceive.receive from 6
+0:0:11.176574700 DEBUG (5): AdReceive.receive from 6
+0:0:11.176574710 DEBUG (7): Accepted Ad from 6
+0:0:11.176574710 DEBUG (5): Accepted Ad from 6
+0:0:11.176574710 DEBUG (1): Discarding received Ad from 6 because I am a CH!
+0:0:11.176574710 DEBUG (0): Discarding received Ad from 6 because I am a CH!
+0:0:11.176574710 DEBUG (11): Accepted Ad from 6
+0:0:11.176574710 DEBUG (12): Accepted Ad from 6
+0:0:11.176574710 DEBUG (2): Accepted Ad from 6
+0:0:11.176574710 DEBUG (10): Accepted Ad from 6
+0:0:11.176742545 DEBUG (6): AdAMSend.sendDone: True
+0:0:11.367187510 DEBUG (7): AdTimer.fired()
+0:0:11.367187510 DEBUG (7): CH decision with LeachRound:0 EPOCH:0 RandResult:0.322935
+0:0:11.367187510 DEBUG (7): I am NOT a CH!
+0:0:11.562500010 DEBUG (8): AdTimer.fired()
+0:0:11.562500010 DEBUG (8): CH decision with LeachRound:0 EPOCH:0 RandResult:0.329781
+0:0:11.562500010 DEBUG (8): I am NOT a CH!
+0:0:11.757812510 DEBUG (9): AdTimer.fired()
+0:0:11.757812510 DEBUG (9): CH decision with LeachRound:0 EPOCH:0 RandResult:0.675132
+0:0:11.757812510 DEBUG (9): I am NOT a CH!
+0:0:11.953125011 DEBUG (10): AdTimer.fired()
+0:0:11.953125011 DEBUG (10): CH decision with LeachRound:0 EPOCH:0 RandResult:0.311824
+0:0:11.953125011 DEBUG (10): I am NOT a CH!
+0:0:12.148437511 DEBUG (11): AdTimer.fired()
+0:0:12.148437511 DEBUG (11): CH decision with LeachRound:0 EPOCH:0 RandResult:0.592166
+0:0:12.148437511 DEBUG (11): I am NOT a CH!
+0:0:12.343750011 DEBUG (12): AdTimer.fired()
+0:0:12.343750011 DEBUG (12): CH decision with LeachRound:0 EPOCH:0 RandResult:0.317168
+0:0:12.343750011 DEBUG (12): I am NOT a CH!
+0:0:12.539062511 DEBUG (13): AdTimer.fired()
+0:0:12.539062511 DEBUG (13): CH decision with LeachRound:0 EPOCH:0 RandResult:0.606049
+0:0:12.539062511 DEBUG (13): I am NOT a CH!
+0:0:12.734375011 DEBUG (14): AdTimer.fired()
+0:0:12.734375011 DEBUG (14): CH decision with LeachRound:0 EPOCH:0 RandResult:0.364186
+0:0:12.734375011 DEBUG (14): I am NOT a CH!
+0:0:12.929687511 DEBUG (15): AdTimer.fired()
+0:0:12.929687511 DEBUG (15): CH decision with LeachRound:0 EPOCH:0 RandResult:0.800127
+0:0:12.929687511 DEBUG (15): I am NOT a CH!
+0:0:13.125000011 DEBUG (16): AdTimer.fired()
+0:0:13.125000011 DEBUG (16): CH decision with LeachRound:0 EPOCH:0 RandResult:0.773063
+0:0:13.125000011 DEBUG (16): I am NOT a CH!
+0:0:13.320312511 DEBUG (17): AdTimer.fired()
+0:0:13.320312511 DEBUG (17): CH decision with LeachRound:0 EPOCH:0 RandResult:0.071646
+0:0:13.320312511 DEBUG (17): CH at depth: 3 at round 0| LeachRound == 0
+0:0:13.320312511 DEBUG (17): I am a CH!
+0:0:13.320312511 DEBUG (17): AdMsg sending...!!!!
+0:0:13.320312511 DEBUG (17): sendAdTask() posted!!
+0:0:13.320312511 DEBUG (17): AdMsg enqueued successfully in AdSendQueue!!!
+0:0:13.320312521 DEBUG (17): sendAdTask(): AdAMSend.send success!
+0:0:13.326370225 DEBUG (23): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (22): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (16): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (12): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (11): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (13): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (21): AdReceive.receive from 17
+0:0:13.326370225 DEBUG (18): AdReceive.receive from 17
+0:0:13.326370235 DEBUG (21): Accepted Ad from 17
+0:0:13.326370235 DEBUG (18): Accepted Ad from 17
+0:0:13.326370235 DEBUG (13): Accepted Ad from 17
+0:0:13.326370235 DEBUG (11): Accepted Ad from 17
+0:0:13.326370235 DEBUG (22): Accepted Ad from 17
+0:0:13.326370235 DEBUG (23): Accepted Ad from 17
+0:0:13.326370235 DEBUG (12): Accepted Ad from 17
+0:0:13.326370235 DEBUG (16): Accepted Ad from 17
+0:0:13.326538071 DEBUG (17): AdAMSend.sendDone: True
+0:0:13.515625011 DEBUG (18): AdTimer.fired()
+0:0:13.515625011 DEBUG (18): CH decision with LeachRound:0 EPOCH:0 RandResult:0.133161
+0:0:13.515625011 DEBUG (18): CH at depth: 3 at round 0| LeachRound == 0
+0:0:13.515625011 DEBUG (18): I am a CH!
+0:0:13.515625011 DEBUG (18): AdMsg sending...!!!!
+0:0:13.515625011 DEBUG (18): sendAdTask() posted!!
+0:0:13.515625011 DEBUG (18): AdMsg enqueued successfully in AdSendQueue!!!
+0:0:13.515625021 DEBUG (18): sendAdTask(): AdAMSend.send success!
+0:0:13.521942123 DEBUG (24): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (23): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (17): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (13): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (12): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (14): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (22): AdReceive.receive from 18
+0:0:13.521942123 DEBUG (19): AdReceive.receive from 18
+0:0:13.521942133 DEBUG (22): Accepted Ad from 18
+0:0:13.521942133 DEBUG (19): Accepted Ad from 18
+0:0:13.521942133 DEBUG (14): Accepted Ad from 18
+0:0:13.521942133 DEBUG (12): Accepted Ad from 18
+0:0:13.521942133 DEBUG (23): Accepted Ad from 18
+0:0:13.521942133 DEBUG (24): Accepted Ad from 18
+0:0:13.521942133 DEBUG (13): Accepted Ad from 18
+0:0:13.521942133 DEBUG (17): Discarding received Ad from 18 because I am a CH!
+0:0:13.522109969 DEBUG (18): AdAMSend.sendDone: True
+0:0:13.710937511 DEBUG (19): AdTimer.fired()
+0:0:13.710937511 DEBUG (19): CH decision with LeachRound:0 EPOCH:0 RandResult:0.773741
+0:0:13.710937511 DEBUG (19): I am NOT a CH!
+0:0:13.906250012 DEBUG (20): AdTimer.fired()
+0:0:13.906250012 DEBUG (20): CH decision with LeachRound:0 EPOCH:0 RandResult:0.918790
+0:0:13.906250012 DEBUG (20): I am NOT a CH!
+0:0:14.101562512 DEBUG (21): AdTimer.fired()
+0:0:14.101562512 DEBUG (21): CH decision with LeachRound:0 EPOCH:0 RandResult:0.587162
+0:0:14.101562512 DEBUG (21): I am NOT a CH!
+0:0:14.296875012 DEBUG (22): AdTimer.fired()
+0:0:14.296875012 DEBUG (22): CH decision with LeachRound:0 EPOCH:0 RandResult:0.412127
+0:0:14.296875012 DEBUG (22): I am NOT a CH!
+0:0:14.492187512 DEBUG (23): AdTimer.fired()
+0:0:14.492187512 DEBUG (23): CH decision with LeachRound:0 EPOCH:0 RandResult:0.234521
+0:0:14.492187512 DEBUG (23): CH at depth: 5 at round 0| LeachRound == 0
+0:0:14.492187512 DEBUG (23): I am a CH!
+0:0:14.492187512 DEBUG (23): AdMsg sending...!!!!
+0:0:14.492187512 DEBUG (23): sendAdTask() posted!!
+0:0:14.492187512 DEBUG (23): AdMsg enqueued successfully in AdSendQueue!!!
+0:0:14.492187522 DEBUG (23): sendAdTask(): AdAMSend.send success!
+0:0:14.501617398 DEBUG (24): AdReceive.receive from 23
+0:0:14.501617398 DEBUG (22): AdReceive.receive from 23
+0:0:14.501617398 DEBUG (19): AdReceive.receive from 23
+0:0:14.501617398 DEBUG (18): AdReceive.receive from 23
+0:0:14.501617398 DEBUG (17): AdReceive.receive from 23
+0:0:14.501617408 DEBUG (24): Accepted Ad from 23
+0:0:14.501617408 DEBUG (22): Accepted Ad from 23
+0:0:14.501617408 DEBUG (19): Accepted Ad from 23
+0:0:14.501617408 DEBUG (18): Discarding received Ad from 23 because I am a CH!
+0:0:14.501617408 DEBUG (17): Discarding received Ad from 23 because I am a CH!
+0:0:14.501785244 DEBUG (23): AdAMSend.sendDone: True
+0:0:14.687500012 DEBUG (24): AdTimer.fired()
+0:0:14.687500012 DEBUG (24): CH decision with LeachRound:0 EPOCH:0 RandResult:0.857426
+0:0:14.687500012 DEBUG (24): I am NOT a CH!
+0:0:28.125000012 DEBUG (24): AdResponseTimer fired!
+0:0:28.125000012 DEBUG (24): Responding to CH 23: LeachRound: 1 Epoch:0 sum:44 sum_squared:1936 curdepth:4
+0:0:28.125000012 DEBUG (24): AdResponseTimer.fired(): Task posted.
+0:0:28.125000022 DEBUG (24): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.127868658 DEBUG (23): AdResponseReceive.receive from 24
+0:0:28.127868668 DEBUG (23): receiveAdResponseTask() CH:YES
+0:0:28.127868668 DEBUG (23): receiveAdResponseTask() Caching at 0: ID:24 SUM:44 COUNT:1
+0:0:28.128036503 DEBUG (24): AdResponseAMSend.sendDone: True
+0:0:28.183593762 DEBUG (23): AdResponseTimer fired!
+0:0:28.183593762 DEBUG (23): CHs dont send AdResponses!
+0:0:28.242187512 DEBUG (22): AdResponseTimer fired!
+0:0:28.242187512 DEBUG (22): Responding to CH 23: LeachRound: 1 Epoch:0 sum:24 sum_squared:576 curdepth:4
+0:0:28.242187512 DEBUG (22): AdResponseTimer.fired(): Task posted.
+0:0:28.242187522 DEBUG (22): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.250259374 DEBUG (23): AdResponseReceive.receive from 22
+0:0:28.250259384 DEBUG (23): receiveAdResponseTask() CH:YES
+0:0:28.250259384 DEBUG (23): receiveAdResponseTask() Caching at 1: ID:22 SUM:24 COUNT:1
+0:0:28.250427220 DEBUG (22): AdResponseAMSend.sendDone: True
+0:0:28.300781262 DEBUG (21): AdResponseTimer fired!
+0:0:28.300781262 DEBUG (21): Responding to CH 17: LeachRound: 1 Epoch:0 sum:29 sum_squared:841 curdepth:4
+0:0:28.300781262 DEBUG (21): AdResponseTimer.fired(): Task posted.
+0:0:28.300781272 DEBUG (21): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.311325033 DEBUG (17): AdResponseReceive.receive from 21
+0:0:28.311325043 DEBUG (17): receiveAdResponseTask() CH:YES
+0:0:28.311325043 DEBUG (17): receiveAdResponseTask() Caching at 0: ID:21 SUM:29 COUNT:1
+0:0:28.311492879 DEBUG (21): AdResponseAMSend.sendDone: True
+0:0:28.359375012 DEBUG (20): AdResponseTimer fired!
+0:0:28.359375012 DEBUG (20): Upgraded to CH!!
+0:0:28.417968761 DEBUG (19): AdResponseTimer fired!
+0:0:28.417968761 DEBUG (19): Responding to CH 23: LeachRound: 1 Epoch:0 sum:23 sum_squared:529 curdepth:4
+0:0:28.417968761 DEBUG (19): AdResponseTimer.fired(): Task posted.
+0:0:28.417968771 DEBUG (19): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.428085290 DEBUG (23): AdResponseReceive.receive from 19
+0:0:28.428085300 DEBUG (23): receiveAdResponseTask() CH:YES
+0:0:28.428085300 DEBUG (23): receiveAdResponseTask() Caching at 2: ID:19 SUM:23 COUNT:1
+0:0:28.428253135 DEBUG (19): AdResponseAMSend.sendDone: True
+0:0:28.476562511 DEBUG (18): AdResponseTimer fired!
+0:0:28.476562511 DEBUG (18): CHs dont send AdResponses!
+0:0:28.535156261 DEBUG (17): AdResponseTimer fired!
+0:0:28.535156261 DEBUG (17): CHs dont send AdResponses!
+0:0:28.593750011 DEBUG (16): AdResponseTimer fired!
+0:0:28.593750011 DEBUG (16): Responding to CH 17: LeachRound: 1 Epoch:0 sum:17 sum_squared:289 curdepth:3
+0:0:28.593750011 DEBUG (16): AdResponseTimer.fired(): Task posted.
+0:0:28.593750021 DEBUG (16): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.596633915 DEBUG (17): AdResponseReceive.receive from 16
+0:0:28.596633925 DEBUG (17): receiveAdResponseTask() CH:YES
+0:0:28.596633925 DEBUG (17): receiveAdResponseTask() Caching at 1: ID:16 SUM:17 COUNT:1
+0:0:28.596801761 DEBUG (16): AdResponseAMSend.sendDone: True
+0:0:28.652343761 DEBUG (15): AdResponseTimer fired!
+0:0:28.652343761 DEBUG (15): Upgraded to CH!!
+0:0:28.710937511 DEBUG (14): AdResponseTimer fired!
+0:0:28.710937511 DEBUG (14): Responding to CH 18: LeachRound: 1 Epoch:0 sum:32 sum_squared:1024 curdepth:4
+0:0:28.710937511 DEBUG (14): AdResponseTimer.fired(): Task posted.
+0:0:28.710937521 DEBUG (14): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.714263918 DEBUG (18): AdResponseReceive.receive from 14
+0:0:28.714263928 DEBUG (18): receiveAdResponseTask() CH:YES
+0:0:28.714263928 DEBUG (18): receiveAdResponseTask() Caching at 0: ID:14 SUM:32 COUNT:1
+0:0:28.714431763 DEBUG (14): AdResponseAMSend.sendDone: True
+0:0:28.769531261 DEBUG (13): AdResponseTimer fired!
+0:0:28.769531261 DEBUG (13): Responding to CH 18: LeachRound: 1 Epoch:0 sum:20 sum_squared:400 curdepth:3
+0:0:28.769531261 DEBUG (13): AdResponseTimer.fired(): Task posted.
+0:0:28.769531271 DEBUG (13): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.780563311 DEBUG (18): AdResponseReceive.receive from 13
+0:0:28.780563321 DEBUG (18): receiveAdResponseTask() CH:YES
+0:0:28.780563321 DEBUG (18): receiveAdResponseTask() Caching at 1: ID:13 SUM:20 COUNT:1
+0:0:28.780731157 DEBUG (13): AdResponseAMSend.sendDone: True
+0:0:28.828125011 DEBUG (12): AdResponseTimer fired!
+0:0:28.828125011 DEBUG (12): Responding to CH 18: LeachRound: 1 Epoch:0 sum:29 sum_squared:841 curdepth:2
+0:0:28.828125011 DEBUG (12): AdResponseTimer.fired(): Task posted.
+0:0:28.828125021 DEBUG (12): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.835311868 DEBUG (18): AdResponseReceive.receive from 12
+0:0:28.835311878 DEBUG (18): receiveAdResponseTask() CH:YES
+0:0:28.835311878 DEBUG (18): receiveAdResponseTask() Caching at 2: ID:12 SUM:29 COUNT:1
+0:0:28.835479714 DEBUG (12): AdResponseAMSend.sendDone: True
+0:0:28.886718761 DEBUG (11): AdResponseTimer fired!
+0:0:28.886718761 DEBUG (11): Responding to CH 17: LeachRound: 1 Epoch:0 sum:30 sum_squared:900 curdepth:2
+0:0:28.886718761 DEBUG (11): AdResponseTimer.fired(): Task posted.
+0:0:28.886718771 DEBUG (11): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.894180275 DEBUG (17): AdResponseReceive.receive from 11
+0:0:28.894180285 DEBUG (17): receiveAdResponseTask() CH:YES
+0:0:28.894180285 DEBUG (17): receiveAdResponseTask() Caching at 2: ID:11 SUM:30 COUNT:1
+0:0:28.894348121 DEBUG (11): AdResponseAMSend.sendDone: True
+0:0:28.945312511 DEBUG (10): AdResponseTimer fired!
+0:0:28.945312511 DEBUG (10): Responding to CH 6: LeachRound: 1 Epoch:0 sum:25 sum_squared:625 curdepth:2
+0:0:28.945312511 DEBUG (10): AdResponseTimer.fired(): Task posted.
+0:0:28.945312521 DEBUG (10): sendAdResponse(): AdResponseAMSend.send success!
+0:0:28.947372445 DEBUG (6): AdResponseReceive.receive from 10
+0:0:28.947372455 DEBUG (6): receiveAdResponseTask() CH:YES
+0:0:28.947372455 DEBUG (6): receiveAdResponseTask() Caching at 0: ID:10 SUM:25 COUNT:1
+0:0:28.947540291 DEBUG (10): AdResponseAMSend.sendDone: True
+0:0:29.003906260 DEBUG (9): AdResponseTimer fired!
+0:0:29.003906260 DEBUG (9): Upgraded to CH!!
+0:0:29.062500010 DEBUG (8): AdResponseTimer fired!
+0:0:29.062500010 DEBUG (8): Upgraded to CH!!
+0:0:29.121093760 DEBUG (7): AdResponseTimer fired!
+0:0:29.121093760 DEBUG (7): Responding to CH 6: LeachRound: 1 Epoch:0 sum:22 sum_squared:484 curdepth:2
+0:0:29.121093760 DEBUG (7): AdResponseTimer.fired(): Task posted.
+0:0:29.121093770 DEBUG (7): sendAdResponse(): AdResponseAMSend.send success!
+0:0:29.124938963 DEBUG (6): AdResponseReceive.receive from 7
+0:0:29.124938973 DEBUG (6): receiveAdResponseTask() CH:YES
+0:0:29.124938973 DEBUG (6): receiveAdResponseTask() Caching at 1: ID:7 SUM:22 COUNT:1
+0:0:29.125106808 DEBUG (7): AdResponseAMSend.sendDone: True
+0:0:29.179687510 DEBUG (6): AdResponseTimer fired!
+0:0:29.179687510 DEBUG (6): CHs dont send AdResponses!
+0:0:29.238281260 DEBUG (5): AdResponseTimer fired!
+0:0:29.238281260 DEBUG (5): Responding to CH 6: LeachRound: 1 Epoch:0 sum:21 sum_squared:441 curdepth:1
+0:0:29.238281260 DEBUG (5): AdResponseTimer.fired(): Task posted.
+0:0:29.238281270 DEBUG (5): sendAdResponse(): AdResponseAMSend.send success!
+0:0:29.244735700 DEBUG (6): AdResponseReceive.receive from 5
+0:0:29.244735710 DEBUG (6): receiveAdResponseTask() CH:YES
+0:0:29.244735710 DEBUG (6): receiveAdResponseTask() Caching at 2: ID:5 SUM:21 COUNT:1
+0:0:29.244903546 DEBUG (5): AdResponseAMSend.sendDone: True
+0:0:29.296875010 DEBUG (4): AdResponseTimer fired!
+0:0:29.296875010 DEBUG (4): Upgraded to CH!!
+0:0:29.355468760 DEBUG (3): AdResponseTimer fired!
+0:0:29.355468760 DEBUG (3): Upgraded to CH!!
+0:0:29.414062510 DEBUG (2): AdResponseTimer fired!
+0:0:29.414062510 DEBUG (2): Responding to CH 6: LeachRound: 1 Epoch:0 sum:11 sum_squared:121 curdepth:2
+0:0:29.414062510 DEBUG (2): AdResponseTimer.fired(): Task posted.
+0:0:29.414062520 DEBUG (2): sendAdResponse(): AdResponseAMSend.send success!
+0:0:29.415802012 DEBUG (6): AdResponseReceive.receive from 2
+0:0:29.415802022 DEBUG (6): receiveAdResponseTask() CH:YES
+0:0:29.415802022 DEBUG (6): receiveAdResponseTask() Caching at 3: ID:2 SUM:11 COUNT:1
+0:0:29.415969857 DEBUG (2): AdResponseAMSend.sendDone: True
+0:0:29.472656260 DEBUG (1): AdResponseTimer fired!
+0:0:29.472656260 DEBUG (1): CHs dont send AdResponses!
+0:0:29.531250010 DEBUG (0): AdResponseTimer fired!
+0:0:29.531250010 DEBUG (0): CHs dont send AdResponses!
+0:0:47.656250012 DEBUG (24): MsgTimer fired!
+0:0:47.714843762 DEBUG (23): MsgTimer fired!
+0:0:47.714843762 DEBUG (23): Cache val[0]: 44 1936 1 from 24
+0:0:47.714843762 DEBUG (23): Cache val[1]: 24 576 1 from 22
+0:0:47.714843762 DEBUG (23): Cache val[2]: 23 529 1 from 19
+0:0:47.714843762 DEBUG (23): CH readings: 120 3882 4
+0:0:47.714843762 DEBUG (23): CH Aggregate: ParentID:19 Epoch:1 sum:120 count:4 sum_sq:3882 curdepth:5
+0:0:47.714843762 DEBUG (23): MsgTimer.fired(): Task posted.
+0:0:47.714843772 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:0:47.723449679 DEBUG (19): QueryReceive.receive from 23
+0:0:47.723449689 DEBUG (19): QueryReceived from 23 with values: 120 3882 4
+0:0:47.723617524 DEBUG (23): QueryAMSend.sendDone: True
+0:0:47.773437512 DEBUG (22): MsgTimer fired!
+0:0:47.832031262 DEBUG (21): MsgTimer fired!
+0:0:47.890625012 DEBUG (20): MsgTimer fired!
+0:0:47.890625012 DEBUG (20): CH readings: 21 441 1
+0:0:47.890625012 DEBUG (20): CH Aggregate: ParentID:15 Epoch:1 sum:21 count:1 sum_sq:441 curdepth:4
+0:0:47.890625012 DEBUG (20): MsgTimer.fired(): Task posted.
+0:0:47.890625022 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:0:47.899856535 DEBUG (15): QueryReceive.receive from 20
+0:0:47.899856545 DEBUG (15): QueryReceived from 20 with values: 21 441 1
+0:0:47.900024381 DEBUG (20): QueryAMSend.sendDone: True
+0:0:47.949218761 DEBUG (19): MsgTimer fired!
+0:0:47.949218761 DEBUG (19): Cache val[0]: 120 3882 4 from 23
+0:0:47.949218761 DEBUG (19): STANDARD_NODE: ParentID:13 Epoch:1 sum:120 count:4 sum_sq:3882 curdepth:4
+0:0:47.949218761 DEBUG (19): MsgTimer.fired(): Task posted.
+0:0:47.949218771 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:0:47.954620351 DEBUG (13): QueryReceive.receive from 19
+0:0:47.954620361 DEBUG (13): QueryReceived from 19 with values: 120 3882 4
+0:0:47.954788197 DEBUG (19): QueryAMSend.sendDone: True
+0:0:48.007812511 DEBUG (18): MsgTimer fired!
+0:0:48.007812511 DEBUG (18): Cache val[0]: 32 1024 1 from 14
+0:0:48.007812511 DEBUG (18): Cache val[1]: 20 400 1 from 13
+0:0:48.007812511 DEBUG (18): Cache val[2]: 29 841 1 from 12
+0:0:48.007812511 DEBUG (18): CH readings: 112 3226 4
+0:0:48.007812511 DEBUG (18): CH Aggregate: ParentID:12 Epoch:1 sum:112 count:4 sum_sq:3226 curdepth:3
+0:0:48.007812511 DEBUG (18): MsgTimer.fired(): Task posted.
+0:0:48.007812521 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:0:48.013656603 DEBUG (12): QueryReceive.receive from 18
+0:0:48.013656613 DEBUG (12): QueryReceived from 18 with values: 112 3226 4
+0:0:48.013824449 DEBUG (18): QueryAMSend.sendDone: True
+0:0:48.066406261 DEBUG (17): MsgTimer fired!
+0:0:48.066406261 DEBUG (17): Cache val[0]: 29 841 1 from 21
+0:0:48.066406261 DEBUG (17): Cache val[1]: 17 289 1 from 16
+0:0:48.066406261 DEBUG (17): Cache val[2]: 30 900 1 from 11
+0:0:48.066406261 DEBUG (17): CH readings: 108 3054 4
+0:0:48.066406261 DEBUG (17): CH Aggregate: ParentID:12 Epoch:1 sum:108 count:4 sum_sq:3054 curdepth:3
+0:0:48.066406261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:0:48.066406271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:0:48.074554417 DEBUG (12): QueryReceive.receive from 17
+0:0:48.074554427 DEBUG (12): QueryReceived from 17 with values: 108 3054 4
+0:0:48.074722263 DEBUG (17): QueryAMSend.sendDone: True
+0:0:48.125000011 DEBUG (16): MsgTimer fired!
+0:0:48.183593761 DEBUG (15): MsgTimer fired!
+0:0:48.183593761 DEBUG (15): Cache val[0]: 21 441 1 from 20
+0:0:48.183593761 DEBUG (15): CH readings: 38 730 2
+0:0:48.183593761 DEBUG (15): CH Aggregate: ParentID:10 Epoch:1 sum:38 count:2 sum_sq:730 curdepth:3
+0:0:48.183593761 DEBUG (15): MsgTimer.fired(): Task posted.
+0:0:48.183593771 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:0:48.186660770 DEBUG (10): QueryReceive.receive from 15
+0:0:48.186660780 DEBUG (10): QueryReceived from 15 with values: 38 730 2
+0:0:48.186828615 DEBUG (15): QueryAMSend.sendDone: True
+0:0:48.242187511 DEBUG (14): MsgTimer fired!
+0:0:48.300781261 DEBUG (13): MsgTimer fired!
+0:0:48.300781261 DEBUG (13): Cache val[0]: 120 3882 4 from 19
+0:0:48.300781261 DEBUG (13): STANDARD_NODE: ParentID:7 Epoch:1 sum:120 count:4 sum_sq:3882 curdepth:3
+0:0:48.300781261 DEBUG (13): MsgTimer.fired(): Task posted.
+0:0:48.300781271 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:0:48.307952860 DEBUG (7): QueryReceive.receive from 13
+0:0:48.307952870 DEBUG (7): QueryReceived from 13 with values: 120 3882 4
+0:0:48.308120706 DEBUG (13): QueryAMSend.sendDone: True
+0:0:48.359375011 DEBUG (12): MsgTimer fired!
+0:0:48.359375011 DEBUG (12): Cache val[0]: 112 3226 4 from 18
+0:0:48.359375011 DEBUG (12): Cache val[1]: 108 3054 4 from 17
+0:0:48.359375011 DEBUG (12): STANDARD_NODE: ParentID:6 Epoch:1 sum:220 count:8 sum_sq:6280 curdepth:2
+0:0:48.359375011 DEBUG (12): MsgTimer.fired(): Task posted.
+0:0:48.359375021 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:0:48.362899780 DEBUG (6): QueryReceive.receive from 12
+0:0:48.362899790 DEBUG (6): QueryReceived from 12 with values: 220 6280 8
+0:0:48.363067626 DEBUG (12): QueryAMSend.sendDone: True
+0:0:48.417968761 DEBUG (11): MsgTimer fired!
+0:0:48.476562511 DEBUG (10): MsgTimer fired!
+0:0:48.476562511 DEBUG (10): Cache val[0]: 38 730 2 from 15
+0:0:48.476562511 DEBUG (10): STANDARD_NODE: ParentID:5 Epoch:1 sum:38 count:2 sum_sq:730 curdepth:2
+0:0:48.476562511 DEBUG (10): MsgTimer.fired(): Task posted.
+0:0:48.476562521 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:0:48.482910140 DEBUG (5): QueryReceive.receive from 10
+0:0:48.482910150 DEBUG (5): QueryReceived from 10 with values: 38 730 2
+0:0:48.483077985 DEBUG (10): QueryAMSend.sendDone: True
+0:0:48.535156260 DEBUG (9): MsgTimer fired!
+0:0:48.535156260 DEBUG (9): CH readings: 9 81 1
+0:0:48.535156260 DEBUG (9): CH Aggregate: ParentID:13 Epoch:1 sum:9 count:1 sum_sq:81 curdepth:4
+0:0:48.535156260 DEBUG (9): MsgTimer.fired(): Task posted.
+0:0:48.535156270 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:0:48.537887578 DEBUG (13): QueryReceive.receive from 9
+0:0:48.537887588 DEBUG (13): QueryReceived from 9 with values: 9 81 1
+0:0:48.538055423 DEBUG (9): QueryAMSend.sendDone: True
+0:0:48.593750010 DEBUG (8): MsgTimer fired!
+0:0:48.593750010 DEBUG (8): CH readings: 28 784 1
+0:0:48.593750010 DEBUG (8): CH Aggregate: ParentID:7 Epoch:1 sum:28 count:1 sum_sq:784 curdepth:3
+0:0:48.593750010 DEBUG (8): MsgTimer.fired(): Task posted.
+0:0:48.593750020 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:0:48.596008308 DEBUG (7): QueryReceive.receive from 8
+0:0:48.596008318 DEBUG (7): QueryReceived from 8 with values: 28 784 1
+0:0:48.596176154 DEBUG (8): QueryAMSend.sendDone: True
+0:0:48.652343760 DEBUG (7): MsgTimer fired!
+0:0:48.652343760 DEBUG (7): Cache val[0]: 120 3882 4 from 13
+0:0:48.652343760 DEBUG (7): Cache val[1]: 28 784 1 from 8
+0:0:48.652343760 DEBUG (7): STANDARD_NODE: ParentID:1 Epoch:1 sum:148 count:5 sum_sq:4666 curdepth:2
+0:0:48.652343760 DEBUG (7): MsgTimer.fired(): Task posted.
+0:0:48.652343770 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:0:48.659332255 DEBUG (1): QueryReceive.receive from 7
+0:0:48.659332265 DEBUG (1): QueryReceived from 7 with values: 148 4666 5
+0:0:48.659500101 DEBUG (7): QueryAMSend.sendDone: True
+0:0:48.710937510 DEBUG (6): MsgTimer fired!
+0:0:48.710937510 DEBUG (6): Cache val[0]: 25 625 1 from 10
+0:0:48.710937510 DEBUG (6): Cache val[1]: 22 484 1 from 7
+0:0:48.710937510 DEBUG (6): Cache val[2]: 21 441 1 from 5
+0:0:48.710937510 DEBUG (6): Cache val[3]: 11 121 1 from 2
+0:0:48.710937510 DEBUG (6): Cache val[4]: 220 6280 8 from 12
+0:0:48.710937510 DEBUG (6): CH readings: 308 8032 13
+0:0:48.710937510 DEBUG (6): CH Aggregate: ParentID:0 Epoch:1 sum:308 count:13 sum_sq:8032 curdepth:1
+0:0:48.710937510 DEBUG (6): MsgTimer.fired(): Task posted.
+0:0:48.710937520 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:0:48.713211066 DEBUG (0): QueryReceive.receive from 6
+0:0:48.713211076 DEBUG (0): QueryReceived from 6 with values: 308 8032 13
+0:0:48.713378912 DEBUG (6): QueryAMSend.sendDone: True
+0:0:48.769531260 DEBUG (5): MsgTimer fired!
+0:0:48.769531260 DEBUG (5): Cache val[0]: 38 730 2 from 10
+0:0:48.769531260 DEBUG (5): STANDARD_NODE: ParentID:0 Epoch:1 sum:38 count:2 sum_sq:730 curdepth:1
+0:0:48.769531260 DEBUG (5): MsgTimer.fired(): Task posted.
+0:0:48.769531270 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:0:48.775894148 DEBUG (0): QueryReceive.receive from 5
+0:0:48.775894158 DEBUG (0): QueryReceived from 5 with values: 38 730 2
+0:0:48.776061994 DEBUG (5): QueryAMSend.sendDone: True
+0:0:48.828125010 DEBUG (4): MsgTimer fired!
+0:0:48.828125010 DEBUG (4): CH readings: 6 36 1
+0:0:48.828125010 DEBUG (4): CH Aggregate: ParentID:3 Epoch:1 sum:6 count:1 sum_sq:36 curdepth:4
+0:0:48.828125010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:0:48.828125020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:0:48.832946769 DEBUG (3): QueryReceive.receive from 4
+0:0:48.832946779 DEBUG (3): QueryReceived from 4 with values: 6 36 1
+0:0:48.833114615 DEBUG (4): QueryAMSend.sendDone: True
+0:0:48.886718760 DEBUG (3): MsgTimer fired!
+0:0:48.886718760 DEBUG (3): Cache val[0]: 6 36 1 from 4
+0:0:48.886718760 DEBUG (3): CH readings: 13 85 2
+0:0:48.886718760 DEBUG (3): CH Aggregate: ParentID:7 Epoch:1 sum:13 count:2 sum_sq:85 curdepth:3
+0:0:48.886718760 DEBUG (3): MsgTimer.fired(): Task posted.
+0:0:48.886718770 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:0:48.896240199 DEBUG (7): QueryReceive.receive from 3
+0:0:48.896240209 DEBUG (7): QueryReceived from 3 with values: 13 85 2
+0:0:48.896408044 DEBUG (3): QueryAMSend.sendDone: True
+0:0:48.945312510 DEBUG (2): MsgTimer fired!
+0:0:49.003906260 DEBUG (1): MsgTimer fired!
+0:0:49.003906260 DEBUG (1): Cache val[0]: 148 4666 5 from 7
+0:0:49.003906260 DEBUG (1): CH readings: 156 4730 6
+0:0:49.003906260 DEBUG (1): CH Aggregate: ParentID:0 Epoch:1 sum:156 count:6 sum_sq:4730 curdepth:1
+0:0:49.003906260 DEBUG (1): MsgTimer.fired(): Task posted.
+0:0:49.003906270 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:0:49.013015714 DEBUG (0): QueryReceive.receive from 1
+0:0:49.013015724 DEBUG (0): QueryReceived from 1 with values: 156 4730 6
+0:0:49.013183559 DEBUG (1): QueryAMSend.sendDone: True
+0:1:8.593750010 DEBUG (0): MsgTimer fired!
+0:1:8.593750010 DEBUG (0): Cache val[0]: 308 8032 13 from 6
+0:1:8.593750010 DEBUG (0): Cache val[1]: 38 730 2 from 5
+0:1:8.593750010 DEBUG (0): Cache val[2]: 156 4730 6 from 1
+0:1:8.593750010 DEBUG (0): ROOT readings: 518 13748 22
+0:1:8.593750010 DEBUG (0): ######## ROUND 1 ########
+
+0:1:8.593750010 DEBUG (0): LEACH ROUND:1 EPOCH:1 -> sum: 518 | count: 22 | sum_squared: 13748 | avg: 23.55 | var: 70.52

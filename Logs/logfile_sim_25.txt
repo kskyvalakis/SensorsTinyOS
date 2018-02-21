@@ -1,0 +1,1447 @@
+0:0:10.204391456 DEBUG (6): ### RoutingReceive.receive() end ##### 
+0:0:10.204391456 DEBUG (5): ### RoutingReceive.receive() end ##### 
+0:0:10.204391456 DEBUG (1): ### RoutingReceive.receive() end ##### 
+0:0:10.204391466 DEBUG (6): PARENT: 0
+0:0:10.204391466 DEBUG (5): PARENT: 0
+0:0:10.204391466 DEBUG (1): PARENT: 0
+0:0:10.402587892 DEBUG (11): ### RoutingReceive.receive() end ##### 
+0:0:10.402587892 DEBUG (10): ### RoutingReceive.receive() end ##### 
+0:0:10.402587892 DEBUG (6): ### RoutingReceive.receive() end ##### 
+0:0:10.402587892 DEBUG (1): ### RoutingReceive.receive() end ##### 
+0:0:10.402587892 DEBUG (0): ### RoutingReceive.receive() end ##### 
+0:0:10.402587902 DEBUG (11): PARENT: 5
+0:0:10.402587902 DEBUG (10): PARENT: 5
+0:0:10.402587902 DEBUG (6): PARENT: 0
+0:0:10.402587902 DEBUG (1): PARENT: 0
+0:0:10.402587902 DEBUG (0): PARENT: 0
+0:0:10.404922473 DEBUG (12): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (11): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (10): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (7): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (5): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (2): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (0): ### RoutingReceive.receive() end ##### 
+0:0:10.404922473 DEBUG (1): ### RoutingReceive.receive() end ##### 
+0:0:10.404922483 DEBUG (0): PARENT: 0
+0:0:10.404922483 DEBUG (1): PARENT: 0
+0:0:10.404922483 DEBUG (2): PARENT: 6
+0:0:10.404922483 DEBUG (5): PARENT: 0
+0:0:10.404922483 DEBUG (7): PARENT: 6
+0:0:10.404922483 DEBUG (11): PARENT: 5
+0:0:10.404922483 DEBUG (12): PARENT: 6
+0:0:10.404922483 DEBUG (10): PARENT: 5
+0:0:10.406555154 DEBUG (7): ### RoutingReceive.receive() end ##### 
+0:0:10.406555154 DEBUG (6): ### RoutingReceive.receive() end ##### 
+0:0:10.406555154 DEBUG (5): ### RoutingReceive.receive() end ##### 
+0:0:10.406555154 DEBUG (2): ### RoutingReceive.receive() end ##### 
+0:0:10.406555154 DEBUG (0): ### RoutingReceive.receive() end ##### 
+0:0:10.406555164 DEBUG (7): PARENT: 6
+0:0:10.406555164 DEBUG (6): PARENT: 0
+0:0:10.406555164 DEBUG (5): PARENT: 0
+0:0:10.406555164 DEBUG (2): PARENT: 6
+0:0:10.406555164 DEBUG (0): PARENT: 0
+0:0:10.604309075 DEBUG (18): ### RoutingReceive.receive() end ##### 
+0:0:10.604309075 DEBUG (16): ### RoutingReceive.receive() end ##### 
+0:0:10.604309075 DEBUG (13): ### RoutingReceive.receive() end ##### 
+0:0:10.604309075 DEBUG (11): ### RoutingReceive.receive() end ##### 
+0:0:10.604309075 DEBUG (17): ### RoutingReceive.receive() end ##### 
+0:0:10.604309085 DEBUG (18): PARENT: 12
+0:0:10.604309085 DEBUG (16): PARENT: 12
+0:0:10.604309085 DEBUG (13): PARENT: 12
+0:0:10.604309085 DEBUG (11): PARENT: 5
+0:0:10.604309085 DEBUG (17): PARENT: 12
+0:0:10.604461661 DEBUG (3): ### RoutingReceive.receive() end ##### 
+0:0:10.604461661 DEBUG (1): ### RoutingReceive.receive() end ##### 
+0:0:10.604461671 DEBUG (3): PARENT: 2
+0:0:10.604461671 DEBUG (1): PARENT: 0
+0:0:10.606124860 DEBUG (13): ### RoutingReceive.receive() end ##### 
+0:0:10.606124860 DEBUG (12): ### RoutingReceive.receive() end ##### 
+0:0:10.606124860 DEBUG (3): ### RoutingReceive.receive() end ##### 
+0:0:10.606124860 DEBUG (2): ### RoutingReceive.receive() end ##### 
+0:0:10.606124860 DEBUG (1): ### RoutingReceive.receive() end ##### 
+0:0:10.606124860 DEBUG (8): ### RoutingReceive.receive() end ##### 
+0:0:10.606124870 DEBUG (1): PARENT: 0
+0:0:10.606124870 DEBUG (13): PARENT: 12
+0:0:10.606124870 DEBUG (12): PARENT: 6
+0:0:10.606124870 DEBUG (3): PARENT: 2
+0:0:10.606124870 DEBUG (2): PARENT: 6
+0:0:10.606124870 DEBUG (8): PARENT: 7
+0:0:10.606307953 DEBUG (5): ### RoutingReceive.receive() end ##### 
+0:0:10.606307953 DEBUG (15): ### RoutingReceive.receive() end ##### 
+0:0:10.606307953 DEBUG (16): ### RoutingReceive.receive() end ##### 
+0:0:10.606307963 DEBUG (5): PARENT: 0
+0:0:10.606307963 DEBUG (15): PARENT: 10
+0:0:10.606307963 DEBUG (16): PARENT: 12
+0:0:10.608291585 DEBUG (17): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (16): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (15): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (6): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (5): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (12): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (10): ### RoutingReceive.receive() end ##### 
+0:0:10.608291585 DEBUG (7): ### RoutingReceive.receive() end ##### 
+0:0:10.608291595 DEBUG (10): PARENT: 5
+0:0:10.608291595 DEBUG (7): PARENT: 6
+0:0:10.608291595 DEBUG (12): PARENT: 6
+0:0:10.608291595 DEBUG (5): PARENT: 0
+0:0:10.608291595 DEBUG (17): PARENT: 12
+0:0:10.608291595 DEBUG (16): PARENT: 12
+0:0:10.608291595 DEBUG (15): PARENT: 10
+0:0:10.608291595 DEBUG (6): PARENT: 0
+0:0:10.800766000 DEBUG (9): ### RoutingReceive.receive() end ##### 
+0:0:10.800766000 DEBUG (8): ### RoutingReceive.receive() end ##### 
+0:0:10.800766000 DEBUG (7): ### RoutingReceive.receive() end ##### 
+0:0:10.800766000 DEBUG (4): ### RoutingReceive.receive() end ##### 
+0:0:10.800766000 DEBUG (2): ### RoutingReceive.receive() end ##### 
+0:0:10.800766010 DEBUG (9): PARENT: 3
+0:0:10.800766010 DEBUG (8): PARENT: 7
+0:0:10.800766010 DEBUG (7): PARENT: 6
+0:0:10.800766010 DEBUG (4): PARENT: 3
+0:0:10.800766010 DEBUG (2): PARENT: 6
+0:0:10.805435163 DEBUG (22): ### RoutingReceive.receive() end ##### 
+0:0:10.805435163 DEBUG (15): ### RoutingReceive.receive() end ##### 
+0:0:10.805435163 DEBUG (10): ### RoutingReceive.receive() end ##### 
+0:0:10.805435163 DEBUG (11): ### RoutingReceive.receive() end ##### 
+0:0:10.805435163 DEBUG (21): ### RoutingReceive.receive() end ##### 
+0:0:10.805435163 DEBUG (20): ### RoutingReceive.receive() end ##### 
+0:0:10.805435173 DEBUG (22): PARENT: 16
+0:0:10.805435173 DEBUG (15): PARENT: 10
+0:0:10.805435173 DEBUG (10): PARENT: 5
+0:0:10.805435173 DEBUG (11): PARENT: 5
+0:0:10.805435173 DEBUG (21): PARENT: 16
+0:0:10.805435173 DEBUG (20): PARENT: 16
+0:0:10.806106546 DEBUG (7): ### RoutingReceive.receive() end ##### 
+0:0:10.806106546 DEBUG (9): ### RoutingReceive.receive() end ##### 
+0:0:10.806106546 DEBUG (19): ### RoutingReceive.receive() end ##### 
+0:0:10.806106546 DEBUG (8): ### RoutingReceive.receive() end ##### 
+0:0:10.806106546 DEBUG (14): ### RoutingReceive.receive() end ##### 
+0:0:10.806106556 DEBUG (7): PARENT: 6
+0:0:10.806106556 DEBUG (9): PARENT: 3
+0:0:10.806106556 DEBUG (19): PARENT: 13
+0:0:10.806106556 DEBUG (8): PARENT: 7
+0:0:10.806106556 DEBUG (14): PARENT: 13
+0:0:10.807556123 DEBUG (13): ### RoutingReceive.receive() end ##### 
+0:0:10.807556123 DEBUG (12): ### RoutingReceive.receive() end ##### 
+0:0:10.807556123 DEBUG (23): ### RoutingReceive.receive() end ##### 
+0:0:10.807556123 DEBUG (22): ### RoutingReceive.receive() end ##### 
+0:0:10.807556133 DEBUG (13): PARENT: 12
+0:0:10.807556133 DEBUG (12): PARENT: 6
+0:0:10.807556133 DEBUG (23): PARENT: 17
+0:0:10.807556133 DEBUG (22): PARENT: 16
+0:0:10.808547949 DEBUG (20): ### RoutingReceive.receive() end ##### 
+0:0:10.808547949 DEBUG (10): ### RoutingReceive.receive() end ##### 
+0:0:10.808547959 DEBUG (20): PARENT: 16
+0:0:10.808547959 DEBUG (10): PARENT: 5
+0:0:10.810333217 DEBUG (2): ### RoutingReceive.receive() end ##### 
+0:0:10.810333217 DEBUG (9): ### RoutingReceive.receive() end ##### 
+0:0:10.810333217 DEBUG (4): ### RoutingReceive.receive() end ##### 
+0:0:10.810333217 DEBUG (3): ### RoutingReceive.receive() end ##### 
+0:0:10.810333217 DEBUG (7): ### RoutingReceive.receive() end ##### 
+0:0:10.810333227 DEBUG (2): PARENT: 6
+0:0:10.810333227 DEBUG (9): PARENT: 3
+0:0:10.810333227 DEBUG (4): PARENT: 3
+0:0:10.810333227 DEBUG (3): PARENT: 2
+0:0:10.810333227 DEBUG (7): PARENT: 6
+0:0:10.810943554 DEBUG (24): ### RoutingReceive.receive() end ##### 
+0:0:10.810943554 DEBUG (19): ### RoutingReceive.receive() end ##### 
+0:0:10.810943554 DEBUG (17): ### RoutingReceive.receive() end ##### 
+0:0:10.810943554 DEBUG (23): ### RoutingReceive.receive() end ##### 
+0:0:10.810943564 DEBUG (23): PARENT: 17
+0:0:10.810943564 DEBUG (17): PARENT: 12
+0:0:10.810943564 DEBUG (24): PARENT: 18
+0:0:10.810943564 DEBUG (19): PARENT: 13
+0:0:11.001937847 DEBUG (14): ### RoutingReceive.receive() end ##### 
+0:0:11.001937847 DEBUG (13): ### RoutingReceive.receive() end ##### 
+0:0:11.001937847 DEBUG (8): ### RoutingReceive.receive() end ##### 
+0:0:11.001937847 DEBUG (3): ### RoutingReceive.receive() end ##### 
+0:0:11.001937847 DEBUG (4): ### RoutingReceive.receive() end ##### 
+0:0:11.001937857 DEBUG (14): PARENT: 13
+0:0:11.001937857 DEBUG (13): PARENT: 12
+0:0:11.001937857 DEBUG (8): PARENT: 7
+0:0:11.001937857 DEBUG (3): PARENT: 2
+0:0:11.001937857 DEBUG (4): PARENT: 3
+0:0:11.003692632 DEBUG (19): ### RoutingReceive.receive() end ##### 
+0:0:11.003692632 DEBUG (18): ### RoutingReceive.receive() end ##### 
+0:0:11.003692632 DEBUG (13): ### RoutingReceive.receive() end ##### 
+0:0:11.003692632 DEBUG (9): ### RoutingReceive.receive() end ##### 
+0:0:11.003692632 DEBUG (8): ### RoutingReceive.receive() end ##### 
+0:0:11.003692642 DEBUG (19): PARENT: 13
+0:0:11.003692642 DEBUG (18): PARENT: 12
+0:0:11.003692642 DEBUG (13): PARENT: 12
+0:0:11.003692642 DEBUG (9): PARENT: 3
+0:0:11.003692642 DEBUG (8): PARENT: 7
+0:0:11.005020104 DEBUG (9): ### RoutingReceive.receive() end ##### 
+0:0:11.005020104 DEBUG (8): ### RoutingReceive.receive() end ##### 
+0:0:11.005020104 DEBUG (3): ### RoutingReceive.receive() end ##### 
+0:0:11.005020114 DEBUG (9): PARENT: 3
+0:0:11.005020114 DEBUG (8): PARENT: 7
+0:0:11.005020114 DEBUG (3): PARENT: 2
+0:0:11.005966173 DEBUG (16): ### RoutingReceive.receive() end ##### 
+0:0:11.005966173 DEBUG (23): ### RoutingReceive.receive() end ##### 
+0:0:11.005966173 DEBUG (18): ### RoutingReceive.receive() end ##### 
+0:0:11.005966173 DEBUG (17): ### RoutingReceive.receive() end ##### 
+0:0:11.005966173 DEBUG (21): ### RoutingReceive.receive() end ##### 
+0:0:11.005966183 DEBUG (16): PARENT: 12
+0:0:11.005966183 DEBUG (23): PARENT: 17
+0:0:11.005966183 DEBUG (18): PARENT: 12
+0:0:11.005966183 DEBUG (17): PARENT: 12
+0:0:11.005966183 DEBUG (21): PARENT: 16
+0:0:11.007476785 DEBUG (20): ### RoutingReceive.receive() end ##### 
+0:0:11.007476785 DEBUG (16): ### RoutingReceive.receive() end ##### 
+0:0:11.007476785 DEBUG (15): ### RoutingReceive.receive() end ##### 
+0:0:11.007476795 DEBUG (20): PARENT: 16
+0:0:11.007476795 DEBUG (16): PARENT: 12
+0:0:11.007476795 DEBUG (15): PARENT: 10
+0:0:11.007675159 DEBUG (19): ### RoutingReceive.receive() end ##### 
+0:0:11.007675159 DEBUG (18): ### RoutingReceive.receive() end ##### 
+0:0:11.007675159 DEBUG (24): ### RoutingReceive.receive() end ##### 
+0:0:11.007675169 DEBUG (19): PARENT: 13
+0:0:11.007675169 DEBUG (18): PARENT: 12
+0:0:11.007675169 DEBUG (24): PARENT: 18
+0:0:11.009887665 DEBUG (24): ### RoutingReceive.receive() end ##### 
+0:0:11.009887665 DEBUG (23): ### RoutingReceive.receive() end ##### 
+0:0:11.009887665 DEBUG (18): ### RoutingReceive.receive() end ##### 
+0:0:11.009887665 DEBUG (13): ### RoutingReceive.receive() end ##### 
+0:0:11.009887665 DEBUG (14): ### RoutingReceive.receive() end ##### 
+0:0:11.009887675 DEBUG (24): PARENT: 18
+0:0:11.009887675 DEBUG (23): PARENT: 17
+0:0:11.009887675 DEBUG (18): PARENT: 12
+0:0:11.009887675 DEBUG (13): PARENT: 12
+0:0:11.009887675 DEBUG (14): PARENT: 13
+0:0:11.010391196 DEBUG (16): ### RoutingReceive.receive() end ##### 
+0:0:11.010391196 DEBUG (15): ### RoutingReceive.receive() end ##### 
+0:0:11.010391196 DEBUG (21): ### RoutingReceive.receive() end ##### 
+0:0:11.010391206 DEBUG (16): PARENT: 12
+0:0:11.010391206 DEBUG (15): PARENT: 10
+0:0:11.010391206 DEBUG (21): PARENT: 16
+0:0:11.016784626 DEBUG (23): ### RoutingReceive.receive() end ##### 
+0:0:11.016784626 DEBUG (19): ### RoutingReceive.receive() end ##### 
+0:0:11.016784626 DEBUG (18): ### RoutingReceive.receive() end ##### 
+0:0:11.016784636 DEBUG (23): PARENT: 17
+0:0:11.016784636 DEBUG (19): PARENT: 13
+0:0:11.016784636 DEBUG (18): PARENT: 12
+0:1:1.952148449 DEBUG (24): MsgTimer fired!
+0:1:1.952148449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:1:1.952148459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:1:1.962844808 DEBUG (18): QueryReceive.receive from 24
+0:1:1.963012654 DEBUG (24): QueryAMSend.sendDone: True
+0:1:2.154296887 DEBUG (23): MsgTimer fired!
+0:1:2.154296887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:1:2.154296897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:1:2.166152907 DEBUG (17): QueryReceive.receive from 23
+0:1:2.166320752 DEBUG (23): QueryAMSend.sendDone: True
+0:1:2.303710949 DEBUG (22): MsgTimer fired!
+0:1:2.303710949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:1:2.303710959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:1:2.312530488 DEBUG (16): QueryReceive.receive from 22
+0:1:2.312698334 DEBUG (22): QueryAMSend.sendDone: True
+0:1:2.514648449 DEBUG (21): MsgTimer fired!
+0:1:2.514648449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:1:2.514648459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:1:2.525299032 DEBUG (16): QueryReceive.receive from 21
+0:1:2.525466877 DEBUG (21): QueryAMSend.sendDone: True
+0:1:2.699218762 DEBUG (20): MsgTimer fired!
+0:1:2.699218762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:1:2.699218772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:1:2.707366917 DEBUG (16): QueryReceive.receive from 20
+0:1:2.707534763 DEBUG (20): QueryAMSend.sendDone: True
+0:1:2.875000011 DEBUG (19): MsgTimer fired!
+0:1:2.875000011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:1:2.875000021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:1:2.877136239 DEBUG (13): QueryReceive.receive from 19
+0:1:2.877304085 DEBUG (19): QueryAMSend.sendDone: True
+0:1:3.671875011 DEBUG (18): MsgTimer fired!
+0:1:3.671875011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:1:3.671875021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:1:3.674682622 DEBUG (12): QueryReceive.receive from 18
+0:1:3.674850468 DEBUG (18): QueryAMSend.sendDone: True
+0:1:3.736328136 DEBUG (14): MsgTimer fired!
+0:1:3.736328136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:1:3.736328146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:1:3.743392924 DEBUG (13): QueryReceive.receive from 14
+0:1:3.743560770 DEBUG (14): QueryAMSend.sendDone: True
+0:1:3.847656261 DEBUG (17): MsgTimer fired!
+0:1:3.847656261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:1:3.847656271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:1:3.856887785 DEBUG (12): QueryReceive.receive from 17
+0:1:3.857055630 DEBUG (17): QueryAMSend.sendDone: True
+0:1:3.979492199 DEBUG (16): MsgTimer fired!
+0:1:3.979492199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:1:3.979492209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:1:3.989273035 DEBUG (12): QueryReceive.receive from 16
+0:1:3.989440881 DEBUG (16): QueryAMSend.sendDone: True
+0:1:4.164062511 DEBUG (15): MsgTimer fired!
+0:1:4.164062511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:1:4.164062521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:1:4.171127299 DEBUG (10): QueryReceive.receive from 15
+0:1:4.171295145 DEBUG (15): QueryAMSend.sendDone: True
+0:1:4.498046886 DEBUG (13): MsgTimer fired!
+0:1:4.498046886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:1:4.498046896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:1:4.502807610 DEBUG (12): QueryReceive.receive from 13
+0:1:4.502975456 DEBUG (13): QueryAMSend.sendDone: True
+0:1:4.632812510 DEBUG (9): MsgTimer fired!
+0:1:4.632812510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:1:4.632812520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:1:4.642120327 DEBUG (3): QueryReceive.receive from 9
+0:1:4.642288173 DEBUG (9): QueryAMSend.sendDone: True
+0:1:5.259765636 DEBUG (12): MsgTimer fired!
+0:1:5.259765636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:1:5.259765646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:1:5.263229371 DEBUG (6): QueryReceive.receive from 12
+0:1:5.263397216 DEBUG (12): QueryAMSend.sendDone: True
+0:1:5.385742198 DEBUG (8): MsgTimer fired!
+0:1:5.385742198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:1:5.385742208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:1:5.391204822 DEBUG (7): QueryReceive.receive from 8
+0:1:5.391372668 DEBUG (8): QueryAMSend.sendDone: True
+0:1:5.409179698 DEBUG (11): MsgTimer fired!
+0:1:5.409179698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:1:5.409179708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:1:5.415313706 DEBUG (5): QueryReceive.receive from 11
+0:1:5.415481551 DEBUG (11): QueryAMSend.sendDone: True
+0:1:5.546875010 DEBUG (4): MsgTimer fired!
+0:1:5.546875010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:1:5.546875020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:1:5.551742545 DEBUG (3): QueryReceive.receive from 4
+0:1:5.551910391 DEBUG (4): QueryAMSend.sendDone: True
+0:1:5.620117198 DEBUG (10): MsgTimer fired!
+0:1:5.620117198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:1:5.620117208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:1:5.622787481 DEBUG (10): QueryAMSend.sendDone: True
+0:1:6.173828135 DEBUG (7): MsgTimer fired!
+0:1:6.173828135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:1:6.173828145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:1:6.181716893 DEBUG (6): QueryReceive.receive from 7
+0:1:6.181884739 DEBUG (7): QueryAMSend.sendDone: True
+0:1:6.229492197 DEBUG (3): MsgTimer fired!
+0:1:6.229492197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:1:6.229492207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:1:6.240173297 DEBUG (2): QueryReceive.receive from 3
+0:1:6.240341143 DEBUG (3): QueryAMSend.sendDone: True
+0:1:6.909179698 DEBUG (6): MsgTimer fired!
+0:1:6.909179698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:1:6.909179708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:1:6.927017128 DEBUG (0): QueryReceive.receive from 6
+0:1:6.927184974 DEBUG (6): QueryAMSend.sendDone: True
+0:1:7.026367197 DEBUG (2): MsgTimer fired!
+0:1:7.026367197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:1:7.026367207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:1:7.028610236 DEBUG (6): QueryReceive.receive from 2
+0:1:7.028778082 DEBUG (2): QueryAMSend.sendDone: True
+0:1:7.067382823 DEBUG (5): MsgTimer fired!
+0:1:7.067382823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:1:7.067382833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:1:7.070083622 DEBUG (0): QueryReceive.receive from 5
+0:1:7.070251468 DEBUG (5): QueryAMSend.sendDone: True
+0:1:7.779296885 DEBUG (1): MsgTimer fired!
+0:1:7.779296885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:1:7.779296895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:1:7.783599848 DEBUG (0): QueryReceive.receive from 1
+0:1:7.783767694 DEBUG (1): QueryAMSend.sendDone: True
+0:1:8.593750010 DEBUG (0): MsgTimer fired!
+0:1:8.593750010 DEBUG (0): EPOCH:1-> sum: 452 | count: 19 | sum_squared: 12110 | avg: 23.79 | var: 71.43
+0:1:8.593750010 DEBUG (0): ## ROUND 1 ## 
+0:2:0.545898449 DEBUG (24): MsgTimer fired!
+0:2:0.545898449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:2:0.545898459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:2:0.550445552 DEBUG (18): QueryReceive.receive from 24
+0:2:0.550613398 DEBUG (24): QueryAMSend.sendDone: True
+0:2:0.748046887 DEBUG (23): MsgTimer fired!
+0:2:0.748046887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:2:0.748046897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:2:0.754806501 DEBUG (17): QueryReceive.receive from 23
+0:2:0.754974347 DEBUG (23): QueryAMSend.sendDone: True
+0:2:0.897460949 DEBUG (22): MsgTimer fired!
+0:2:0.897460949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:2:0.897460959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:2:0.904312116 DEBUG (16): QueryReceive.receive from 22
+0:2:0.904479961 DEBUG (22): QueryAMSend.sendDone: True
+0:2:1.108398449 DEBUG (21): MsgTimer fired!
+0:2:1.108398449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:2:1.108398459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:2:1.111312871 DEBUG (16): QueryReceive.receive from 21
+0:2:1.111480717 DEBUG (21): QueryAMSend.sendDone: True
+0:2:1.292968762 DEBUG (20): MsgTimer fired!
+0:2:1.292968762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:2:1.292968772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:2:1.299621565 DEBUG (16): QueryReceive.receive from 20
+0:2:1.299789410 DEBUG (20): QueryAMSend.sendDone: True
+0:2:1.468750011 DEBUG (19): MsgTimer fired!
+0:2:1.468750011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:2:1.468750021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:2:1.479095420 DEBUG (13): QueryReceive.receive from 19
+0:2:1.479263266 DEBUG (19): QueryAMSend.sendDone: True
+0:2:2.265625011 DEBUG (18): MsgTimer fired!
+0:2:2.265625011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:2:2.265625021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:2:2.271362293 DEBUG (12): QueryReceive.receive from 18
+0:2:2.271530138 DEBUG (18): QueryAMSend.sendDone: True
+0:2:2.330078136 DEBUG (14): MsgTimer fired!
+0:2:2.330078136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:2:2.330078146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:2:2.336746198 DEBUG (13): QueryReceive.receive from 14
+0:2:2.336914044 DEBUG (14): QueryAMSend.sendDone: True
+0:2:2.441406261 DEBUG (17): MsgTimer fired!
+0:2:2.441406261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:2:2.441406271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:2:2.452011068 DEBUG (12): QueryReceive.receive from 17
+0:2:2.452178913 DEBUG (17): QueryAMSend.sendDone: True
+0:2:2.573242199 DEBUG (16): MsgTimer fired!
+0:2:2.573242199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:2:2.573242209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:2:2.576080327 DEBUG (12): QueryReceive.receive from 16
+0:2:2.576248173 DEBUG (16): QueryAMSend.sendDone: True
+0:2:2.757812511 DEBUG (15): MsgTimer fired!
+0:2:2.757812511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:2:2.757812521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:2:2.765380836 DEBUG (10): QueryReceive.receive from 15
+0:2:2.765548682 DEBUG (15): QueryAMSend.sendDone: True
+0:2:3.091796886 DEBUG (13): MsgTimer fired!
+0:2:3.091796886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:2:3.091796896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:2:3.097488391 DEBUG (12): QueryReceive.receive from 13
+0:2:3.097656237 DEBUG (13): QueryAMSend.sendDone: True
+0:2:3.226562510 DEBUG (9): MsgTimer fired!
+0:2:3.226562510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:2:3.226562520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:2:3.231658926 DEBUG (3): QueryReceive.receive from 9
+0:2:3.231826772 DEBUG (9): QueryAMSend.sendDone: True
+0:2:3.853515636 DEBUG (12): MsgTimer fired!
+0:2:3.853515636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:2:3.853515646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:2:3.859832748 DEBUG (6): QueryReceive.receive from 12
+0:2:3.860000593 DEBUG (12): QueryAMSend.sendDone: True
+0:2:3.979492198 DEBUG (8): MsgTimer fired!
+0:2:3.979492198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:2:3.979492208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:2:3.982803346 DEBUG (7): QueryReceive.receive from 8
+0:2:3.982971191 DEBUG (8): QueryAMSend.sendDone: True
+0:2:4.002929698 DEBUG (11): MsgTimer fired!
+0:2:4.002929698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:2:4.002929708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:2:4.006134035 DEBUG (5): QueryReceive.receive from 11
+0:2:4.006301881 DEBUG (11): QueryAMSend.sendDone: True
+0:2:4.140625010 DEBUG (4): MsgTimer fired!
+0:2:4.140625010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:2:4.140625020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:2:4.151733354 DEBUG (3): QueryReceive.receive from 4
+0:2:4.151901199 DEBUG (4): QueryAMSend.sendDone: True
+0:2:4.213867198 DEBUG (10): MsgTimer fired!
+0:2:4.213867198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:2:4.213867208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:2:4.218933096 DEBUG (5): QueryReceive.receive from 10
+0:2:4.219100942 DEBUG (10): QueryAMSend.sendDone: True
+0:2:4.767578135 DEBUG (7): MsgTimer fired!
+0:2:4.767578135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:2:4.767578145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:2:4.778137166 DEBUG (6): QueryReceive.receive from 7
+0:2:4.778305011 DEBUG (7): QueryAMSend.sendDone: True
+0:2:4.823242197 DEBUG (3): MsgTimer fired!
+0:2:4.823242197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:2:4.823242207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:2:4.825576788 DEBUG (2): QueryReceive.receive from 3
+0:2:4.825744634 DEBUG (3): QueryAMSend.sendDone: True
+0:2:5.502929698 DEBUG (6): MsgTimer fired!
+0:2:5.502929698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:2:5.502929708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:2:5.505310065 DEBUG (0): QueryReceive.receive from 6
+0:2:5.505477911 DEBUG (6): QueryAMSend.sendDone: True
+0:2:5.620117197 DEBUG (2): MsgTimer fired!
+0:2:5.620117197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:2:5.620117207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:2:5.629928551 DEBUG (6): QueryReceive.receive from 2
+0:2:5.630096397 DEBUG (2): QueryAMSend.sendDone: True
+0:2:5.661132823 DEBUG (5): MsgTimer fired!
+0:2:5.661132823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:2:5.661132833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:2:5.667541487 DEBUG (0): QueryReceive.receive from 5
+0:2:5.667709332 DEBUG (5): QueryAMSend.sendDone: True
+0:2:6.373046885 DEBUG (1): MsgTimer fired!
+0:2:6.373046885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:2:6.373046895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:2:6.381668060 DEBUG (0): QueryReceive.receive from 1
+0:2:6.381835906 DEBUG (1): QueryAMSend.sendDone: True
+0:2:7.187500010 DEBUG (0): MsgTimer fired!
+0:2:7.187500010 DEBUG (0): EPOCH:2-> sum: 601 | count: 25 | sum_squared: 15901 | avg: 24.04 | var: 58.12
+0:2:7.187500010 DEBUG (0): ## ROUND 2 ## 
+0:2:59.139648449 DEBUG (24): MsgTimer fired!
+0:2:59.139648449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:2:59.139648459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:2:59.142715458 DEBUG (18): QueryReceive.receive from 24
+0:2:59.142883304 DEBUG (24): QueryAMSend.sendDone: True
+0:2:59.341796887 DEBUG (23): MsgTimer fired!
+0:2:59.341796887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:2:59.341796897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:2:59.346115109 DEBUG (17): QueryReceive.receive from 23
+0:2:59.346282955 DEBUG (23): QueryAMSend.sendDone: True
+0:2:59.491210949 DEBUG (22): MsgTimer fired!
+0:2:59.491210949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:2:59.491210959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:2:59.500228851 DEBUG (16): QueryReceive.receive from 22
+0:2:59.500396697 DEBUG (22): QueryAMSend.sendDone: True
+0:2:59.702148449 DEBUG (21): MsgTimer fired!
+0:2:59.702148449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:2:59.702148459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:2:59.708862287 DEBUG (16): QueryReceive.receive from 21
+0:2:59.709030133 DEBUG (21): QueryAMSend.sendDone: True
+0:2:59.886718762 DEBUG (20): MsgTimer fired!
+0:2:59.886718762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:2:59.886718772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:2:59.888565074 DEBUG (16): QueryReceive.receive from 20
+0:2:59.888732920 DEBUG (20): QueryAMSend.sendDone: True
+0:3:0.062500011 DEBUG (19): MsgTimer fired!
+0:3:0.062500011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:3:0.062500021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:3:0.072631798 DEBUG (13): QueryReceive.receive from 19
+0:3:0.072799644 DEBUG (19): QueryAMSend.sendDone: True
+0:3:0.859375011 DEBUG (18): MsgTimer fired!
+0:3:0.859375011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:3:0.859375021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:3:0.869338952 DEBUG (12): QueryReceive.receive from 18
+0:3:0.869506798 DEBUG (18): QueryAMSend.sendDone: True
+0:3:0.923828136 DEBUG (14): MsgTimer fired!
+0:3:0.923828136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:3:0.923828146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:3:0.926559453 DEBUG (13): QueryReceive.receive from 14
+0:3:0.926727299 DEBUG (14): QueryAMSend.sendDone: True
+0:3:1.035156261 DEBUG (17): MsgTimer fired!
+0:3:1.035156261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:3:1.035156271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:3:1.042068462 DEBUG (12): QueryReceive.receive from 17
+0:3:1.042236308 DEBUG (17): QueryAMSend.sendDone: True
+0:3:1.166992199 DEBUG (16): MsgTimer fired!
+0:3:1.166992199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:3:1.166992209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:3:1.174133280 DEBUG (12): QueryReceive.receive from 16
+0:3:1.174301126 DEBUG (16): QueryAMSend.sendDone: True
+0:3:1.351562511 DEBUG (15): MsgTimer fired!
+0:3:1.351562511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:3:1.351562521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:3:1.354187017 DEBUG (10): QueryReceive.receive from 15
+0:3:1.354354863 DEBUG (15): QueryAMSend.sendDone: True
+0:3:1.685546886 DEBUG (13): MsgTimer fired!
+0:3:1.685546886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:3:1.685546896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:3:1.687515268 DEBUG (12): QueryReceive.receive from 13
+0:3:1.687683114 DEBUG (13): QueryAMSend.sendDone: True
+0:3:1.820312510 DEBUG (9): MsgTimer fired!
+0:3:1.820312510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:3:1.820312520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:3:1.827423075 DEBUG (3): QueryReceive.receive from 9
+0:3:1.827590920 DEBUG (9): QueryAMSend.sendDone: True
+0:3:2.447265636 DEBUG (12): MsgTimer fired!
+0:3:2.447265636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:3:2.447265646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:3:2.450439455 DEBUG (6): QueryReceive.receive from 12
+0:3:2.450607301 DEBUG (12): QueryAMSend.sendDone: True
+0:3:2.573242198 DEBUG (8): MsgTimer fired!
+0:3:2.573242198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:3:2.573242208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:3:2.584304765 DEBUG (8): QueryAMSend.sendDone: True
+0:3:2.596679698 DEBUG (11): MsgTimer fired!
+0:3:2.596679698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:3:2.596679708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:3:2.607055624 DEBUG (5): QueryReceive.receive from 11
+0:3:2.607223470 DEBUG (11): QueryAMSend.sendDone: True
+0:3:2.734375010 DEBUG (4): MsgTimer fired!
+0:3:2.734375010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:3:2.734375020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:3:2.738555904 DEBUG (3): QueryReceive.receive from 4
+0:3:2.738723749 DEBUG (4): QueryAMSend.sendDone: True
+0:3:2.807617198 DEBUG (10): MsgTimer fired!
+0:3:2.807617198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:3:2.807617208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:3:2.813796982 DEBUG (5): QueryReceive.receive from 10
+0:3:2.813964827 DEBUG (10): QueryAMSend.sendDone: True
+0:3:3.361328135 DEBUG (7): MsgTimer fired!
+0:3:3.361328135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:3:3.361328145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:3:3.370941126 DEBUG (6): QueryReceive.receive from 7
+0:3:3.371108972 DEBUG (7): QueryAMSend.sendDone: True
+0:3:3.416992197 DEBUG (3): MsgTimer fired!
+0:3:3.416992197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:3:3.416992207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:3:3.426330532 DEBUG (2): QueryReceive.receive from 3
+0:3:3.426498377 DEBUG (3): QueryAMSend.sendDone: True
+0:3:4.096679698 DEBUG (6): MsgTimer fired!
+0:3:4.096679698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:3:4.096679708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:3:4.099990846 DEBUG (0): QueryReceive.receive from 6
+0:3:4.100158691 DEBUG (6): QueryAMSend.sendDone: True
+0:3:4.213867197 DEBUG (2): MsgTimer fired!
+0:3:4.213867197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:3:4.213867207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:3:4.219696031 DEBUG (6): QueryReceive.receive from 2
+0:3:4.219863876 DEBUG (2): QueryAMSend.sendDone: True
+0:3:4.254882823 DEBUG (5): MsgTimer fired!
+0:3:4.254882823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:3:4.254882833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:3:4.263336152 DEBUG (0): QueryReceive.receive from 5
+0:3:4.263503998 DEBUG (5): QueryAMSend.sendDone: True
+0:3:4.966796885 DEBUG (1): MsgTimer fired!
+0:3:4.966796885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:3:4.966796895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:3:4.974716160 DEBUG (0): QueryReceive.receive from 1
+0:3:4.974884006 DEBUG (1): QueryAMSend.sendDone: True
+0:3:5.781250010 DEBUG (0): MsgTimer fired!
+0:3:5.781250010 DEBUG (0): EPOCH:3-> sum: 614 | count: 25 | sum_squared: 17832 | avg: 24.56 | var: 110.09
+0:3:5.781250010 DEBUG (0): ## ROUND 3 ## 
+0:3:57.733398449 DEBUG (24): MsgTimer fired!
+0:3:57.733398449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:3:57.733398459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:3:57.741821262 DEBUG (18): QueryReceive.receive from 24
+0:3:57.741989108 DEBUG (24): QueryAMSend.sendDone: True
+0:3:57.935546887 DEBUG (23): MsgTimer fired!
+0:3:57.935546887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:3:57.935546897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:3:57.938995363 DEBUG (17): QueryReceive.receive from 23
+0:3:57.939163209 DEBUG (23): QueryAMSend.sendDone: True
+0:3:58.084960949 DEBUG (22): MsgTimer fired!
+0:3:58.084960949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:3:58.084960959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:3:58.091064439 DEBUG (16): QueryReceive.receive from 22
+0:3:58.091232285 DEBUG (22): QueryAMSend.sendDone: True
+0:3:58.295898449 DEBUG (21): MsgTimer fired!
+0:3:58.295898449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:3:58.295898459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:3:58.303298929 DEBUG (16): QueryReceive.receive from 21
+0:3:58.303466774 DEBUG (21): QueryAMSend.sendDone: True
+0:3:58.480468762 DEBUG (20): MsgTimer fired!
+0:3:58.480468762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:3:58.480468772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:3:58.489761320 DEBUG (16): QueryReceive.receive from 20
+0:3:58.489929166 DEBUG (20): QueryAMSend.sendDone: True
+0:3:58.656250011 DEBUG (19): MsgTimer fired!
+0:3:58.656250011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:3:58.656250021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:3:58.658432016 DEBUG (13): QueryReceive.receive from 19
+0:3:58.658599861 DEBUG (19): QueryAMSend.sendDone: True
+0:3:59.453125011 DEBUG (18): MsgTimer fired!
+0:3:59.453125011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:3:59.453125021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:3:59.464233355 DEBUG (12): QueryReceive.receive from 18
+0:3:59.464401201 DEBUG (18): QueryAMSend.sendDone: True
+0:3:59.517578136 DEBUG (14): MsgTimer fired!
+0:3:59.517578136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:3:59.517578146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:3:59.524444561 DEBUG (13): QueryReceive.receive from 14
+0:3:59.524612407 DEBUG (14): QueryAMSend.sendDone: True
+0:3:59.628906261 DEBUG (17): MsgTimer fired!
+0:3:59.628906261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:3:59.628906271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:3:59.637359591 DEBUG (12): QueryReceive.receive from 17
+0:3:59.637527437 DEBUG (17): QueryAMSend.sendDone: True
+0:3:59.760742199 DEBUG (16): MsgTimer fired!
+0:3:59.760742199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:3:59.760742209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:3:59.764389038 DEBUG (12): QueryReceive.receive from 16
+0:3:59.764556884 DEBUG (16): QueryAMSend.sendDone: True
+0:3:59.945312511 DEBUG (15): MsgTimer fired!
+0:3:59.945312511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:3:59.945312521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:3:59.948608400 DEBUG (10): QueryReceive.receive from 15
+0:3:59.948776246 DEBUG (15): QueryAMSend.sendDone: True
+0:4:0.279296886 DEBUG (13): MsgTimer fired!
+0:4:0.279296886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:4:0.279296896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:4:0.287414524 DEBUG (12): QueryReceive.receive from 13
+0:4:0.287582370 DEBUG (13): QueryAMSend.sendDone: True
+0:4:0.414062510 DEBUG (9): MsgTimer fired!
+0:4:0.414062510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:4:0.414062520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:4:0.422897308 DEBUG (3): QueryReceive.receive from 9
+0:4:0.423065153 DEBUG (9): QueryAMSend.sendDone: True
+0:4:1.041015636 DEBUG (12): MsgTimer fired!
+0:4:1.041015636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:4:1.041015646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:4:1.047271713 DEBUG (6): QueryReceive.receive from 12
+0:4:1.047439558 DEBUG (12): QueryAMSend.sendDone: True
+0:4:1.166992198 DEBUG (8): MsgTimer fired!
+0:4:1.166992198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:4:1.166992208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:4:1.177474935 DEBUG (7): QueryReceive.receive from 8
+0:4:1.177642780 DEBUG (8): QueryAMSend.sendDone: True
+0:4:1.190429698 DEBUG (11): MsgTimer fired!
+0:4:1.190429698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:4:1.190429708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:4:1.198211645 DEBUG (5): QueryReceive.receive from 11
+0:4:1.198379491 DEBUG (11): QueryAMSend.sendDone: True
+0:4:1.328125010 DEBUG (4): MsgTimer fired!
+0:4:1.328125010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:4:1.328125020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:4:1.337142912 DEBUG (3): QueryReceive.receive from 4
+0:4:1.337310757 DEBUG (4): QueryAMSend.sendDone: True
+0:4:1.401367198 DEBUG (10): MsgTimer fired!
+0:4:1.401367198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:4:1.401367208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:4:1.407714827 DEBUG (5): QueryReceive.receive from 10
+0:4:1.407882673 DEBUG (10): QueryAMSend.sendDone: True
+0:4:1.955078135 DEBUG (7): MsgTimer fired!
+0:4:1.955078135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:4:1.955078145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:4:1.959915153 DEBUG (6): QueryReceive.receive from 7
+0:4:1.960082999 DEBUG (7): QueryAMSend.sendDone: True
+0:4:2.010742197 DEBUG (3): MsgTimer fired!
+0:4:2.010742197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:4:2.010742207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:4:2.014144897 DEBUG (2): QueryReceive.receive from 3
+0:4:2.014312743 DEBUG (3): QueryAMSend.sendDone: True
+0:4:2.690429698 DEBUG (6): MsgTimer fired!
+0:4:2.690429698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:4:2.690429708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:4:2.701675370 DEBUG (0): QueryReceive.receive from 6
+0:4:2.701843215 DEBUG (6): QueryAMSend.sendDone: True
+0:4:2.807617197 DEBUG (2): MsgTimer fired!
+0:4:2.807617197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:4:2.807617207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:4:2.815444920 DEBUG (6): QueryReceive.receive from 2
+0:4:2.815612766 DEBUG (2): QueryAMSend.sendDone: True
+0:4:2.848632823 DEBUG (5): MsgTimer fired!
+0:4:2.848632823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:4:2.848632833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:4:2.855636576 DEBUG (0): QueryReceive.receive from 5
+0:4:2.855804422 DEBUG (5): QueryAMSend.sendDone: True
+0:4:3.560546885 DEBUG (1): MsgTimer fired!
+0:4:3.560546885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:4:3.560546895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:4:3.565978992 DEBUG (0): QueryReceive.receive from 1
+0:4:3.566146838 DEBUG (1): QueryAMSend.sendDone: True
+0:4:4.375000010 DEBUG (0): MsgTimer fired!
+0:4:4.375000010 DEBUG (0): EPOCH:4-> sum: 586 | count: 25 | sum_squared: 15880 | avg: 23.44 | var: 85.77
+0:4:4.375000010 DEBUG (0): ## ROUND 4 ## 
+0:4:56.327148449 DEBUG (24): MsgTimer fired!
+0:4:56.327148449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:4:56.327148459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:4:56.332183830 DEBUG (18): QueryReceive.receive from 24
+0:4:56.332351676 DEBUG (24): QueryAMSend.sendDone: True
+0:4:56.529296887 DEBUG (23): MsgTimer fired!
+0:4:56.529296887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:4:56.529296897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:4:56.540893509 DEBUG (17): QueryReceive.receive from 23
+0:4:56.541061355 DEBUG (23): QueryAMSend.sendDone: True
+0:4:56.678710949 DEBUG (22): MsgTimer fired!
+0:4:56.678710949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:4:56.678710959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:4:56.684326161 DEBUG (16): QueryReceive.receive from 22
+0:4:56.684494007 DEBUG (22): QueryAMSend.sendDone: True
+0:4:56.889648449 DEBUG (21): MsgTimer fired!
+0:4:56.889648449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:4:56.889648459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:4:56.900009116 DEBUG (16): QueryReceive.receive from 21
+0:4:56.900176962 DEBUG (21): QueryAMSend.sendDone: True
+0:4:57.074218762 DEBUG (20): MsgTimer fired!
+0:4:57.074218762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:4:57.074218772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:4:57.085067707 DEBUG (16): QueryReceive.receive from 20
+0:4:57.085235553 DEBUG (20): QueryAMSend.sendDone: True
+0:4:57.250000011 DEBUG (19): MsgTimer fired!
+0:4:57.250000011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:4:57.250000021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:4:57.256423934 DEBUG (13): QueryReceive.receive from 19
+0:4:57.256591780 DEBUG (19): QueryAMSend.sendDone: True
+0:4:58.046875011 DEBUG (18): MsgTimer fired!
+0:4:58.046875011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:4:58.046875021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:4:58.057540853 DEBUG (12): QueryReceive.receive from 18
+0:4:58.057708698 DEBUG (18): QueryAMSend.sendDone: True
+0:4:58.111328136 DEBUG (14): MsgTimer fired!
+0:4:58.111328136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:4:58.111328146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:4:58.114944458 DEBUG (13): QueryReceive.receive from 14
+0:4:58.115112304 DEBUG (14): QueryAMSend.sendDone: True
+0:4:58.222656261 DEBUG (17): MsgTimer fired!
+0:4:58.222656261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:4:58.222656271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:4:58.224548350 DEBUG (12): QueryReceive.receive from 17
+0:4:58.224716196 DEBUG (17): QueryAMSend.sendDone: True
+0:4:58.354492199 DEBUG (16): MsgTimer fired!
+0:4:58.354492199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:4:58.354492209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:4:58.365585284 DEBUG (12): QueryReceive.receive from 16
+0:4:58.365753129 DEBUG (16): QueryAMSend.sendDone: True
+0:4:58.539062511 DEBUG (15): MsgTimer fired!
+0:4:58.539062511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:4:58.539062521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:4:58.548522915 DEBUG (10): QueryReceive.receive from 15
+0:4:58.548690761 DEBUG (15): QueryAMSend.sendDone: True
+0:4:58.873046886 DEBUG (13): MsgTimer fired!
+0:4:58.873046886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:4:58.873046896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:4:58.874923716 DEBUG (12): QueryReceive.receive from 13
+0:4:58.875091562 DEBUG (13): QueryAMSend.sendDone: True
+0:4:59.007812510 DEBUG (9): MsgTimer fired!
+0:4:59.007812510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:4:59.007812520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:4:59.014602642 DEBUG (3): QueryReceive.receive from 9
+0:4:59.014770488 DEBUG (9): QueryAMSend.sendDone: True
+0:4:59.634765636 DEBUG (12): MsgTimer fired!
+0:4:59.634765636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:4:59.634765646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:4:59.637237555 DEBUG (6): QueryReceive.receive from 12
+0:4:59.637405401 DEBUG (12): QueryAMSend.sendDone: True
+0:4:59.760742198 DEBUG (8): MsgTimer fired!
+0:4:59.760742198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:4:59.760742208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:4:59.764007570 DEBUG (7): QueryReceive.receive from 8
+0:4:59.764175415 DEBUG (8): QueryAMSend.sendDone: True
+0:4:59.784179698 DEBUG (11): MsgTimer fired!
+0:4:59.784179698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:4:59.784179708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:4:59.788085935 DEBUG (5): QueryReceive.receive from 11
+0:4:59.788253781 DEBUG (11): QueryAMSend.sendDone: True
+0:4:59.921875010 DEBUG (4): MsgTimer fired!
+0:4:59.921875010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:4:59.921875020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:4:59.924621586 DEBUG (3): QueryReceive.receive from 4
+0:4:59.924789432 DEBUG (4): QueryAMSend.sendDone: True
+0:4:59.995117198 DEBUG (10): MsgTimer fired!
+0:4:59.995117198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:4:59.995117208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:4:59.998153689 DEBUG (5): QueryReceive.receive from 10
+0:4:59.998321535 DEBUG (10): QueryAMSend.sendDone: True
+0:5:0.548828135 DEBUG (7): MsgTimer fired!
+0:5:0.548828135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:5:0.548828145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:5:0.554428088 DEBUG (6): QueryReceive.receive from 7
+0:5:0.554595934 DEBUG (7): QueryAMSend.sendDone: True
+0:5:0.604492197 DEBUG (3): MsgTimer fired!
+0:5:0.604492197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:5:0.604492207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:5:0.613967860 DEBUG (2): QueryReceive.receive from 3
+0:5:0.614135706 DEBUG (3): QueryAMSend.sendDone: True
+0:5:1.284179698 DEBUG (6): MsgTimer fired!
+0:5:1.284179698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:5:1.284179708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:5:1.293182341 DEBUG (0): QueryReceive.receive from 6
+0:5:1.293350186 DEBUG (6): QueryAMSend.sendDone: True
+0:5:1.401367197 DEBUG (2): MsgTimer fired!
+0:5:1.401367197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:5:1.401367207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:5:1.404434206 DEBUG (6): QueryReceive.receive from 2
+0:5:1.404602052 DEBUG (2): QueryAMSend.sendDone: True
+0:5:1.442382823 DEBUG (5): MsgTimer fired!
+0:5:1.442382823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:5:1.442382833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:5:1.445159916 DEBUG (0): QueryReceive.receive from 5
+0:5:1.445327762 DEBUG (5): QueryAMSend.sendDone: True
+0:5:2.154296885 DEBUG (1): MsgTimer fired!
+0:5:2.154296885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:5:2.154296895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:5:2.160003648 DEBUG (0): QueryReceive.receive from 1
+0:5:2.160171494 DEBUG (1): QueryAMSend.sendDone: True
+0:5:2.968750010 DEBUG (0): MsgTimer fired!
+0:5:2.968750010 DEBUG (0): EPOCH:5-> sum: 558 | count: 25 | sum_squared: 14200 | avg: 22.32 | var: 69.82
+0:5:2.968750010 DEBUG (0): ## ROUND 5 ## 
+0:5:54.920898449 DEBUG (24): MsgTimer fired!
+0:5:54.920898449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:5:54.920898459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:5:54.925338741 DEBUG (18): QueryReceive.receive from 24
+0:5:54.925506587 DEBUG (24): QueryAMSend.sendDone: True
+0:5:55.123046887 DEBUG (23): MsgTimer fired!
+0:5:55.123046887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:5:55.123046897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:5:55.131042456 DEBUG (17): QueryReceive.receive from 23
+0:5:55.131210301 DEBUG (23): QueryAMSend.sendDone: True
+0:5:55.272460949 DEBUG (22): MsgTimer fired!
+0:5:55.272460949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:5:55.272460959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:5:55.280197120 DEBUG (16): QueryReceive.receive from 22
+0:5:55.280364966 DEBUG (22): QueryAMSend.sendDone: True
+0:5:55.483398449 DEBUG (21): MsgTimer fired!
+0:5:55.483398449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:5:55.483398459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:5:55.489959700 DEBUG (16): QueryReceive.receive from 21
+0:5:55.490127546 DEBUG (21): QueryAMSend.sendDone: True
+0:5:55.667968762 DEBUG (20): MsgTimer fired!
+0:5:55.667968762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:5:55.667968772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:5:55.670104990 DEBUG (16): QueryReceive.receive from 20
+0:5:55.670272835 DEBUG (20): QueryAMSend.sendDone: True
+0:5:55.843750011 DEBUG (19): MsgTimer fired!
+0:5:55.843750011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:5:55.843750021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:5:55.848266597 DEBUG (13): QueryReceive.receive from 19
+0:5:55.848434442 DEBUG (19): QueryAMSend.sendDone: True
+0:5:56.640625011 DEBUG (18): MsgTimer fired!
+0:5:56.640625011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:5:56.640625021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:5:56.648345924 DEBUG (12): QueryReceive.receive from 18
+0:5:56.648513769 DEBUG (18): QueryAMSend.sendDone: True
+0:5:56.705078136 DEBUG (14): MsgTimer fired!
+0:5:56.705078136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:5:56.705078146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:5:56.710708606 DEBUG (13): QueryReceive.receive from 14
+0:5:56.710876452 DEBUG (14): QueryAMSend.sendDone: True
+0:5:56.816406261 DEBUG (17): MsgTimer fired!
+0:5:56.816406261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:5:56.816406271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:5:56.819381718 DEBUG (12): QueryReceive.receive from 17
+0:5:56.819549563 DEBUG (17): QueryAMSend.sendDone: True
+0:5:56.948242199 DEBUG (16): MsgTimer fired!
+0:5:56.948242199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:5:56.948242209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:5:56.953109734 DEBUG (12): QueryReceive.receive from 16
+0:5:56.953277580 DEBUG (16): QueryAMSend.sendDone: True
+0:5:57.132812511 DEBUG (15): MsgTimer fired!
+0:5:57.132812511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:5:57.132812521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:5:57.137069698 DEBUG (10): QueryReceive.receive from 15
+0:5:57.137237544 DEBUG (15): QueryAMSend.sendDone: True
+0:5:57.466796886 DEBUG (13): MsgTimer fired!
+0:5:57.466796886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:5:57.466796896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:5:57.469116218 DEBUG (12): QueryReceive.receive from 13
+0:5:57.469284064 DEBUG (13): QueryAMSend.sendDone: True
+0:5:57.601562510 DEBUG (9): MsgTimer fired!
+0:5:57.601562510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:5:57.601562520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:5:57.609756442 DEBUG (3): QueryReceive.receive from 9
+0:5:57.609924288 DEBUG (9): QueryAMSend.sendDone: True
+0:5:58.228515636 DEBUG (12): MsgTimer fired!
+0:5:58.228515636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:5:58.228515646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:5:58.231674197 DEBUG (6): QueryReceive.receive from 12
+0:5:58.231842042 DEBUG (12): QueryAMSend.sendDone: True
+0:5:58.354492198 DEBUG (8): MsgTimer fired!
+0:5:58.354492198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:5:58.354492208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:5:58.360229479 DEBUG (7): QueryReceive.receive from 8
+0:5:58.360397325 DEBUG (8): QueryAMSend.sendDone: True
+0:5:58.377929698 DEBUG (11): MsgTimer fired!
+0:5:58.377929698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:5:58.377929708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:5:58.388549763 DEBUG (5): QueryReceive.receive from 11
+0:5:58.388717609 DEBUG (11): QueryAMSend.sendDone: True
+0:5:58.515625010 DEBUG (4): MsgTimer fired!
+0:5:58.515625010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:5:58.515625020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:5:58.520004267 DEBUG (3): QueryReceive.receive from 4
+0:5:58.520172113 DEBUG (4): QueryAMSend.sendDone: True
+0:5:58.588867198 DEBUG (10): MsgTimer fired!
+0:5:58.588867198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:5:58.588867208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:5:58.594497668 DEBUG (5): QueryReceive.receive from 10
+0:5:58.594665514 DEBUG (10): QueryAMSend.sendDone: True
+0:5:59.142578135 DEBUG (7): MsgTimer fired!
+0:5:59.142578135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:5:59.142578145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:5:59.148117053 DEBUG (6): QueryReceive.receive from 7
+0:5:59.148284899 DEBUG (7): QueryAMSend.sendDone: True
+0:5:59.198242197 DEBUG (3): MsgTimer fired!
+0:5:59.198242197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:5:59.198242207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:5:59.206665010 DEBUG (2): QueryReceive.receive from 3
+0:5:59.206832855 DEBUG (3): QueryAMSend.sendDone: True
+0:5:59.877929698 DEBUG (6): MsgTimer fired!
+0:5:59.877929698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:5:59.877929708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:5:59.886032077 DEBUG (0): QueryReceive.receive from 6
+0:5:59.886199923 DEBUG (6): QueryAMSend.sendDone: True
+0:5:59.995117197 DEBUG (2): MsgTimer fired!
+0:5:59.995117197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:5:59.995117207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:6:0.005004845 DEBUG (6): QueryReceive.receive from 2
+0:6:0.005172691 DEBUG (2): QueryAMSend.sendDone: True
+0:6:0.036132823 DEBUG (5): MsgTimer fired!
+0:6:0.036132823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:6:0.036132833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:6:0.040451045 DEBUG (0): QueryReceive.receive from 5
+0:6:0.040618890 DEBUG (5): QueryAMSend.sendDone: True
+0:6:0.748046885 DEBUG (1): MsgTimer fired!
+0:6:0.748046885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:6:0.748046895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:6:0.756698578 DEBUG (0): QueryReceive.receive from 1
+0:6:0.756866423 DEBUG (1): QueryAMSend.sendDone: True
+0:6:1.562500010 DEBUG (0): MsgTimer fired!
+0:6:1.562500010 DEBUG (0): EPOCH:6-> sum: 526 | count: 25 | sum_squared: 13058 | avg: 21.04 | var: 79.64
+0:6:1.562500010 DEBUG (0): ## ROUND 6 ## 
+0:6:53.514648449 DEBUG (24): MsgTimer fired!
+0:6:53.514648449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:6:53.514648459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:6:53.524032560 DEBUG (18): QueryReceive.receive from 24
+0:6:53.524200406 DEBUG (24): QueryAMSend.sendDone: True
+0:6:53.716796887 DEBUG (23): MsgTimer fired!
+0:6:53.716796887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:6:53.716796897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:6:53.725692719 DEBUG (17): QueryReceive.receive from 23
+0:6:53.725860565 DEBUG (23): QueryAMSend.sendDone: True
+0:6:53.866210949 DEBUG (22): MsgTimer fired!
+0:6:53.866210949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:6:53.866210959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:6:53.876495323 DEBUG (16): QueryReceive.receive from 22
+0:6:53.876663169 DEBUG (22): QueryAMSend.sendDone: True
+0:6:54.077148449 DEBUG (21): MsgTimer fired!
+0:6:54.077148449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:6:54.077148459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:6:54.086730923 DEBUG (16): QueryReceive.receive from 21
+0:6:54.086898768 DEBUG (21): QueryAMSend.sendDone: True
+0:6:54.261718762 DEBUG (20): MsgTimer fired!
+0:6:54.261718762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:6:54.261718772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:6:54.267761217 DEBUG (16): QueryReceive.receive from 20
+0:6:54.267929062 DEBUG (20): QueryAMSend.sendDone: True
+0:6:54.437500011 DEBUG (19): MsgTimer fired!
+0:6:54.437500011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:6:54.437500021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:6:54.441314696 DEBUG (13): QueryReceive.receive from 19
+0:6:54.441482542 DEBUG (19): QueryAMSend.sendDone: True
+0:6:55.234375011 DEBUG (18): MsgTimer fired!
+0:6:55.234375011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:6:55.234375021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:6:55.245178181 DEBUG (12): QueryReceive.receive from 18
+0:6:55.245346027 DEBUG (18): QueryAMSend.sendDone: True
+0:6:55.298828136 DEBUG (14): MsgTimer fired!
+0:6:55.298828136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:6:55.298828146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:6:55.301406866 DEBUG (13): QueryReceive.receive from 14
+0:6:55.301574712 DEBUG (14): QueryAMSend.sendDone: True
+0:6:55.410156261 DEBUG (17): MsgTimer fired!
+0:6:55.410156261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:6:55.410156271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:6:55.417694069 DEBUG (12): QueryReceive.receive from 17
+0:6:55.417861915 DEBUG (17): QueryAMSend.sendDone: True
+0:6:55.541992199 DEBUG (16): MsgTimer fired!
+0:6:55.541992199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:6:55.541992209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:6:55.546157834 DEBUG (12): QueryReceive.receive from 16
+0:6:55.546325679 DEBUG (16): QueryAMSend.sendDone: True
+0:6:55.726562511 DEBUG (15): MsgTimer fired!
+0:6:55.726562511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:6:55.726562521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:6:55.734024025 DEBUG (10): QueryReceive.receive from 15
+0:6:55.734191871 DEBUG (15): QueryAMSend.sendDone: True
+0:6:56.060546886 DEBUG (13): MsgTimer fired!
+0:6:56.060546886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:6:56.060546896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:6:56.069610564 DEBUG (12): QueryReceive.receive from 13
+0:6:56.069778409 DEBUG (13): QueryAMSend.sendDone: True
+0:6:56.195312510 DEBUG (9): MsgTimer fired!
+0:6:56.195312510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:6:56.195312520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:6:56.201675398 DEBUG (3): QueryReceive.receive from 9
+0:6:56.201843244 DEBUG (9): QueryAMSend.sendDone: True
+0:6:56.822265636 DEBUG (12): MsgTimer fired!
+0:6:56.822265636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:6:56.822265646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:6:56.825286868 DEBUG (6): QueryReceive.receive from 12
+0:6:56.825454714 DEBUG (12): QueryAMSend.sendDone: True
+0:6:56.948242198 DEBUG (8): MsgTimer fired!
+0:6:56.948242198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:6:56.948242208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:6:56.950286874 DEBUG (7): QueryReceive.receive from 8
+0:6:56.950454719 DEBUG (8): QueryAMSend.sendDone: True
+0:6:56.971679698 DEBUG (11): MsgTimer fired!
+0:6:56.971679698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:6:56.971679708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:6:56.979400610 DEBUG (5): QueryReceive.receive from 11
+0:6:56.979568456 DEBUG (11): QueryAMSend.sendDone: True
+0:6:57.109375010 DEBUG (4): MsgTimer fired!
+0:6:57.109375010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:6:57.109375020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:6:57.113174436 DEBUG (3): QueryReceive.receive from 4
+0:6:57.113342282 DEBUG (4): QueryAMSend.sendDone: True
+0:6:57.182617198 DEBUG (10): MsgTimer fired!
+0:6:57.182617198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:6:57.182617208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:6:57.191497771 DEBUG (5): QueryReceive.receive from 10
+0:6:57.191665617 DEBUG (10): QueryAMSend.sendDone: True
+0:6:57.736328135 DEBUG (7): MsgTimer fired!
+0:6:57.736328135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:6:57.736328145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:6:57.743301371 DEBUG (6): QueryReceive.receive from 7
+0:6:57.743469217 DEBUG (7): QueryAMSend.sendDone: True
+0:6:57.791992197 DEBUG (3): MsgTimer fired!
+0:6:57.791992197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:6:57.791992207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:6:57.798461896 DEBUG (2): QueryReceive.receive from 3
+0:6:57.798629742 DEBUG (3): QueryAMSend.sendDone: True
+0:6:58.471679698 DEBUG (6): MsgTimer fired!
+0:6:58.471679698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:6:58.471679708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:6:58.476455681 DEBUG (0): QueryReceive.receive from 6
+0:6:58.476623526 DEBUG (6): QueryAMSend.sendDone: True
+0:6:58.588867197 DEBUG (2): MsgTimer fired!
+0:6:58.588867197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:6:58.588867207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:6:58.598388636 DEBUG (6): QueryReceive.receive from 2
+0:6:58.598556482 DEBUG (2): QueryAMSend.sendDone: True
+0:6:58.629882823 DEBUG (5): MsgTimer fired!
+0:6:58.629882823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:6:58.629882833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:6:58.638259859 DEBUG (0): QueryReceive.receive from 5
+0:6:58.638427705 DEBUG (5): QueryAMSend.sendDone: True
+0:6:59.341796885 DEBUG (1): MsgTimer fired!
+0:6:59.341796885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:6:59.341796895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:6:59.343917854 DEBUG (0): QueryReceive.receive from 1
+0:6:59.344085700 DEBUG (1): QueryAMSend.sendDone: True
+0:7:0.156250010 DEBUG (0): MsgTimer fired!
+0:7:0.156250010 DEBUG (0): EPOCH:7-> sum: 537 | count: 25 | sum_squared: 14811 | avg: 21.48 | var: 131.05
+0:7:0.156250010 DEBUG (0): ## ROUND 7 ## 
+0:7:52.108398449 DEBUG (24): MsgTimer fired!
+0:7:52.108398449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:7:52.108398459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:7:52.111160284 DEBUG (18): QueryReceive.receive from 24
+0:7:52.111328130 DEBUG (24): QueryAMSend.sendDone: True
+0:7:52.310546887 DEBUG (23): MsgTimer fired!
+0:7:52.310546887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:7:52.310546897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:7:52.315948477 DEBUG (17): QueryReceive.receive from 23
+0:7:52.316116322 DEBUG (23): QueryAMSend.sendDone: True
+0:7:52.459960949 DEBUG (22): MsgTimer fired!
+0:7:52.459960949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:7:52.459960959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:7:52.463088993 DEBUG (16): QueryReceive.receive from 22
+0:7:52.463256838 DEBUG (22): QueryAMSend.sendDone: True
+0:7:52.670898449 DEBUG (21): MsgTimer fired!
+0:7:52.670898449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:7:52.670898459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:7:52.681518514 DEBUG (16): QueryReceive.receive from 21
+0:7:52.681686360 DEBUG (21): QueryAMSend.sendDone: True
+0:7:52.855468762 DEBUG (20): MsgTimer fired!
+0:7:52.855468762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:7:52.855468772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:7:52.860427849 DEBUG (20): QueryAMSend.sendDone: True
+0:7:53.031250011 DEBUG (19): MsgTimer fired!
+0:7:53.031250011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:7:53.031250021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:7:53.041564903 DEBUG (13): QueryReceive.receive from 19
+0:7:53.041732748 DEBUG (19): QueryAMSend.sendDone: True
+0:7:53.828125011 DEBUG (18): MsgTimer fired!
+0:7:53.828125011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:7:53.828125021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:7:53.833465566 DEBUG (12): QueryReceive.receive from 18
+0:7:53.833633412 DEBUG (18): QueryAMSend.sendDone: True
+0:7:53.892578136 DEBUG (14): MsgTimer fired!
+0:7:53.892578136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:7:53.892578146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:7:53.894592294 DEBUG (13): QueryReceive.receive from 14
+0:7:53.894760140 DEBUG (14): QueryAMSend.sendDone: True
+0:7:54.003906261 DEBUG (17): MsgTimer fired!
+0:7:54.003906261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:7:54.003906271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:7:54.009765612 DEBUG (12): QueryReceive.receive from 17
+0:7:54.009933458 DEBUG (17): QueryAMSend.sendDone: True
+0:7:54.135742199 DEBUG (16): MsgTimer fired!
+0:7:54.135742199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:7:54.135742209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:7:54.144073459 DEBUG (12): QueryReceive.receive from 16
+0:7:54.144241305 DEBUG (16): QueryAMSend.sendDone: True
+0:7:54.320312511 DEBUG (15): MsgTimer fired!
+0:7:54.320312511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:7:54.320312521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:7:54.326080310 DEBUG (10): QueryReceive.receive from 15
+0:7:54.326248155 DEBUG (15): QueryAMSend.sendDone: True
+0:7:54.654296886 DEBUG (13): MsgTimer fired!
+0:7:54.654296886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:7:54.654296896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:7:54.664688071 DEBUG (12): QueryReceive.receive from 13
+0:7:54.664855916 DEBUG (13): QueryAMSend.sendDone: True
+0:7:54.789062510 DEBUG (9): MsgTimer fired!
+0:7:54.789062510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:7:54.789062520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:7:54.796722388 DEBUG (3): QueryReceive.receive from 9
+0:7:54.796890234 DEBUG (9): QueryAMSend.sendDone: True
+0:7:55.416015636 DEBUG (12): MsgTimer fired!
+0:7:55.416015636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:7:55.416015646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:7:55.428115795 DEBUG (6): QueryReceive.receive from 12
+0:7:55.428283641 DEBUG (12): QueryAMSend.sendDone: True
+0:7:55.541992198 DEBUG (8): MsgTimer fired!
+0:7:55.541992198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:7:55.541992208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:7:55.549835180 DEBUG (7): QueryReceive.receive from 8
+0:7:55.550003025 DEBUG (8): QueryAMSend.sendDone: True
+0:7:55.565429698 DEBUG (11): MsgTimer fired!
+0:7:55.565429698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:7:55.565429708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:7:55.570236199 DEBUG (5): QueryReceive.receive from 11
+0:7:55.570404044 DEBUG (11): QueryAMSend.sendDone: True
+0:7:55.703125010 DEBUG (4): MsgTimer fired!
+0:7:55.703125010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:7:55.703125020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:7:55.714141801 DEBUG (3): QueryReceive.receive from 4
+0:7:55.714309647 DEBUG (4): QueryAMSend.sendDone: True
+0:7:55.776367198 DEBUG (10): MsgTimer fired!
+0:7:55.776367198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:7:55.776367208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:7:55.780746455 DEBUG (5): QueryReceive.receive from 10
+0:7:55.780914301 DEBUG (10): QueryAMSend.sendDone: True
+0:7:56.330078135 DEBUG (7): MsgTimer fired!
+0:7:56.330078135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:7:56.330078145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:7:56.333679198 DEBUG (6): QueryReceive.receive from 7
+0:7:56.333847044 DEBUG (7): QueryAMSend.sendDone: True
+0:7:56.385742197 DEBUG (3): MsgTimer fired!
+0:7:56.385742197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:7:56.385742207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:7:56.396072347 DEBUG (2): QueryReceive.receive from 3
+0:7:56.396240193 DEBUG (3): QueryAMSend.sendDone: True
+0:7:57.065429698 DEBUG (6): MsgTimer fired!
+0:7:57.065429698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:7:57.065429708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:7:57.071228014 DEBUG (0): QueryReceive.receive from 6
+0:7:57.071395859 DEBUG (6): QueryAMSend.sendDone: True
+0:7:57.182617197 DEBUG (2): MsgTimer fired!
+0:7:57.182617197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:7:57.182617207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:7:57.186004639 DEBUG (6): QueryReceive.receive from 2
+0:7:57.186172484 DEBUG (2): QueryAMSend.sendDone: True
+0:7:57.223632823 DEBUG (5): MsgTimer fired!
+0:7:57.223632823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:7:57.223632833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:7:57.230316143 DEBUG (0): QueryReceive.receive from 5
+0:7:57.230483989 DEBUG (5): QueryAMSend.sendDone: True
+0:7:57.935546885 DEBUG (1): MsgTimer fired!
+0:7:57.935546885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:7:57.935546895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:7:57.942352275 DEBUG (0): QueryReceive.receive from 1
+0:7:57.942520121 DEBUG (1): QueryAMSend.sendDone: True
+0:7:58.750000010 DEBUG (0): MsgTimer fired!
+0:7:58.750000010 DEBUG (0): EPOCH:8-> sum: 559 | count: 25 | sum_squared: 14955 | avg: 22.36 | var: 98.23
+0:7:58.750000010 DEBUG (0): ## ROUND 8 ## 
+0:8:50.702148449 DEBUG (24): MsgTimer fired!
+0:8:50.702148449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:8:50.702148459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:8:50.709960914 DEBUG (18): QueryReceive.receive from 24
+0:8:50.710128760 DEBUG (24): QueryAMSend.sendDone: True
+0:8:50.904296887 DEBUG (23): MsgTimer fired!
+0:8:50.904296887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:8:50.904296897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:8:50.915283161 DEBUG (17): QueryReceive.receive from 23
+0:8:50.915451007 DEBUG (23): QueryAMSend.sendDone: True
+0:8:51.053710949 DEBUG (22): MsgTimer fired!
+0:8:51.053710949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:8:51.053710959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:8:51.055969247 DEBUG (16): QueryReceive.receive from 22
+0:8:51.056137093 DEBUG (22): QueryAMSend.sendDone: True
+0:8:51.264648449 DEBUG (21): MsgTimer fired!
+0:8:51.264648449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:8:51.264648459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:8:51.267211921 DEBUG (16): QueryReceive.receive from 21
+0:8:51.267379766 DEBUG (21): QueryAMSend.sendDone: True
+0:8:51.449218762 DEBUG (20): MsgTimer fired!
+0:8:51.449218762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:8:51.449218772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:8:51.454498282 DEBUG (16): QueryReceive.receive from 20
+0:8:51.454666127 DEBUG (20): QueryAMSend.sendDone: True
+0:8:51.625000011 DEBUG (19): MsgTimer fired!
+0:8:51.625000011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:8:51.625000021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:8:51.635253868 DEBUG (13): QueryReceive.receive from 19
+0:8:51.635421714 DEBUG (19): QueryAMSend.sendDone: True
+0:8:52.421875011 DEBUG (18): MsgTimer fired!
+0:8:52.421875011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:8:52.421875021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:8:52.427490223 DEBUG (12): QueryReceive.receive from 18
+0:8:52.427658069 DEBUG (18): QueryAMSend.sendDone: True
+0:8:52.486328136 DEBUG (14): MsgTimer fired!
+0:8:52.486328136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:8:52.486328146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:8:52.493087750 DEBUG (14): QueryAMSend.sendDone: True
+0:8:52.597656261 DEBUG (17): MsgTimer fired!
+0:8:52.597656261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:8:52.597656271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:8:52.599716196 DEBUG (12): QueryReceive.receive from 17
+0:8:52.599884041 DEBUG (17): QueryAMSend.sendDone: True
+0:8:52.729492199 DEBUG (16): MsgTimer fired!
+0:8:52.729492199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:8:52.729492209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:8:52.739044155 DEBUG (12): QueryReceive.receive from 16
+0:8:52.739212001 DEBUG (16): QueryAMSend.sendDone: True
+0:8:52.914062511 DEBUG (15): MsgTimer fired!
+0:8:52.914062511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:8:52.914062521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:8:52.923721278 DEBUG (10): QueryReceive.receive from 15
+0:8:52.923889124 DEBUG (15): QueryAMSend.sendDone: True
+0:8:53.248046886 DEBUG (13): MsgTimer fired!
+0:8:53.248046886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:8:53.248046896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:8:53.250549323 DEBUG (12): QueryReceive.receive from 13
+0:8:53.250717168 DEBUG (13): QueryAMSend.sendDone: True
+0:8:53.382812510 DEBUG (9): MsgTimer fired!
+0:8:53.382812510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:8:53.382812520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:8:53.385147102 DEBUG (3): QueryReceive.receive from 9
+0:8:53.385314947 DEBUG (9): QueryAMSend.sendDone: True
+0:8:54.009765636 DEBUG (12): MsgTimer fired!
+0:8:54.009765636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:8:54.009765646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:8:54.016647319 DEBUG (6): QueryReceive.receive from 12
+0:8:54.016815165 DEBUG (12): QueryAMSend.sendDone: True
+0:8:54.135742198 DEBUG (8): MsgTimer fired!
+0:8:54.135742198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:8:54.135742208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:8:54.140441887 DEBUG (7): QueryReceive.receive from 8
+0:8:54.140609733 DEBUG (8): QueryAMSend.sendDone: True
+0:8:54.159179698 DEBUG (11): MsgTimer fired!
+0:8:54.159179698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:8:54.159179708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:8:54.169494589 DEBUG (5): QueryReceive.receive from 11
+0:8:54.169662435 DEBUG (11): QueryAMSend.sendDone: True
+0:8:54.296875010 DEBUG (4): MsgTimer fired!
+0:8:54.296875010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:8:54.296875020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:8:54.307189901 DEBUG (3): QueryReceive.receive from 4
+0:8:54.307357747 DEBUG (4): QueryAMSend.sendDone: True
+0:8:54.370117198 DEBUG (10): MsgTimer fired!
+0:8:54.370117198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:8:54.370117208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:8:54.377014140 DEBUG (5): QueryReceive.receive from 10
+0:8:54.377181986 DEBUG (10): QueryAMSend.sendDone: True
+0:8:54.923828135 DEBUG (7): MsgTimer fired!
+0:8:54.923828135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:8:54.923828145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:8:54.927780149 DEBUG (6): QueryReceive.receive from 7
+0:8:54.927947994 DEBUG (7): QueryAMSend.sendDone: True
+0:8:54.979492197 DEBUG (3): MsgTimer fired!
+0:8:54.979492197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:8:54.979492207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:8:54.983993524 DEBUG (2): QueryReceive.receive from 3
+0:8:54.984161370 DEBUG (3): QueryAMSend.sendDone: True
+0:8:55.659179698 DEBUG (6): MsgTimer fired!
+0:8:55.659179698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:8:55.659179708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:8:55.667877167 DEBUG (0): QueryReceive.receive from 6
+0:8:55.668045012 DEBUG (6): QueryAMSend.sendDone: True
+0:8:55.776367197 DEBUG (2): MsgTimer fired!
+0:8:55.776367197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:8:55.776367207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:8:55.783370951 DEBUG (6): QueryReceive.receive from 2
+0:8:55.783538796 DEBUG (2): QueryAMSend.sendDone: True
+0:8:55.817382823 DEBUG (5): MsgTimer fired!
+0:8:55.817382823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:8:55.817382833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:8:55.827026331 DEBUG (0): QueryReceive.receive from 5
+0:8:55.827194177 DEBUG (5): QueryAMSend.sendDone: True
+0:8:56.529296885 DEBUG (1): MsgTimer fired!
+0:8:56.529296885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:8:56.529296895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:8:56.534088126 DEBUG (0): QueryReceive.receive from 1
+0:8:56.534255972 DEBUG (1): QueryAMSend.sendDone: True
+0:8:57.343750010 DEBUG (0): MsgTimer fired!
+0:8:57.343750010 DEBUG (0): EPOCH:9-> sum: 533 | count: 25 | sum_squared: 13419 | avg: 21.32 | var: 82.22
+0:8:57.343750010 DEBUG (0): ## ROUND 9 ## 
+0:9:49.295898449 DEBUG (24): MsgTimer fired!
+0:9:49.295898449 DEBUG (24): MsgTimer.fired(): Task posted.
+0:9:49.295898459 DEBUG (24): sendQueryTask(): QueryAMSend.send success!
+0:9:49.299987791 DEBUG (18): QueryReceive.receive from 24
+0:9:49.300155637 DEBUG (24): QueryAMSend.sendDone: True
+0:9:49.498046887 DEBUG (23): MsgTimer fired!
+0:9:49.498046887 DEBUG (23): MsgTimer.fired(): Task posted.
+0:9:49.498046897 DEBUG (23): sendQueryTask(): QueryAMSend.send success!
+0:9:49.508773763 DEBUG (17): QueryReceive.receive from 23
+0:9:49.508941609 DEBUG (23): QueryAMSend.sendDone: True
+0:9:49.647460949 DEBUG (22): MsgTimer fired!
+0:9:49.647460949 DEBUG (22): MsgTimer.fired(): Task posted.
+0:9:49.647460959 DEBUG (22): sendQueryTask(): QueryAMSend.send success!
+0:9:49.654190046 DEBUG (16): QueryReceive.receive from 22
+0:9:49.654357892 DEBUG (22): QueryAMSend.sendDone: True
+0:9:49.858398449 DEBUG (21): MsgTimer fired!
+0:9:49.858398449 DEBUG (21): MsgTimer.fired(): Task posted.
+0:9:49.858398459 DEBUG (21): sendQueryTask(): QueryAMSend.send success!
+0:9:49.867111177 DEBUG (16): QueryReceive.receive from 21
+0:9:49.867279023 DEBUG (21): QueryAMSend.sendDone: True
+0:9:50.042968762 DEBUG (20): MsgTimer fired!
+0:9:50.042968762 DEBUG (20): MsgTimer.fired(): Task posted.
+0:9:50.042968772 DEBUG (20): sendQueryTask(): QueryAMSend.send success!
+0:9:50.053573568 DEBUG (16): QueryReceive.receive from 20
+0:9:50.053741414 DEBUG (20): QueryAMSend.sendDone: True
+0:9:50.218750011 DEBUG (19): MsgTimer fired!
+0:9:50.218750011 DEBUG (19): MsgTimer.fired(): Task posted.
+0:9:50.218750021 DEBUG (19): sendQueryTask(): QueryAMSend.send success!
+0:9:50.226699804 DEBUG (13): QueryReceive.receive from 19
+0:9:50.226867650 DEBUG (19): QueryAMSend.sendDone: True
+0:9:51.015625011 DEBUG (18): MsgTimer fired!
+0:9:51.015625011 DEBUG (18): MsgTimer.fired(): Task posted.
+0:9:51.015625021 DEBUG (18): sendQueryTask(): QueryAMSend.send success!
+0:9:51.018020637 DEBUG (12): QueryReceive.receive from 18
+0:9:51.018188483 DEBUG (18): QueryAMSend.sendDone: True
+0:9:51.080078136 DEBUG (14): MsgTimer fired!
+0:9:51.080078136 DEBUG (14): MsgTimer.fired(): Task posted.
+0:9:51.080078146 DEBUG (14): sendQueryTask(): QueryAMSend.send success!
+0:9:51.084991447 DEBUG (13): QueryReceive.receive from 14
+0:9:51.085159293 DEBUG (14): QueryAMSend.sendDone: True
+0:9:51.191406261 DEBUG (17): MsgTimer fired!
+0:9:51.191406261 DEBUG (17): MsgTimer.fired(): Task posted.
+0:9:51.191406271 DEBUG (17): sendQueryTask(): QueryAMSend.send success!
+0:9:51.193466196 DEBUG (12): QueryReceive.receive from 17
+0:9:51.193634041 DEBUG (17): QueryAMSend.sendDone: True
+0:9:51.323242199 DEBUG (16): MsgTimer fired!
+0:9:51.323242199 DEBUG (16): MsgTimer.fired(): Task posted.
+0:9:51.323242209 DEBUG (16): sendQueryTask(): QueryAMSend.send success!
+0:9:51.325241098 DEBUG (12): QueryReceive.receive from 16
+0:9:51.325408944 DEBUG (16): QueryAMSend.sendDone: True
+0:9:51.507812511 DEBUG (15): MsgTimer fired!
+0:9:51.507812511 DEBUG (15): MsgTimer.fired(): Task posted.
+0:9:51.507812521 DEBUG (15): sendQueryTask(): QueryAMSend.send success!
+0:9:51.518463094 DEBUG (10): QueryReceive.receive from 15
+0:9:51.518630939 DEBUG (15): QueryAMSend.sendDone: True
+0:9:51.841796886 DEBUG (13): MsgTimer fired!
+0:9:51.841796886 DEBUG (13): MsgTimer.fired(): Task posted.
+0:9:51.841796896 DEBUG (13): sendQueryTask(): QueryAMSend.send success!
+0:9:51.852004966 DEBUG (12): QueryReceive.receive from 13
+0:9:51.852172812 DEBUG (13): QueryAMSend.sendDone: True
+0:9:51.976562510 DEBUG (9): MsgTimer fired!
+0:9:51.976562510 DEBUG (9): MsgTimer.fired(): Task posted.
+0:9:51.976562520 DEBUG (9): sendQueryTask(): QueryAMSend.send success!
+0:9:51.986663780 DEBUG (3): QueryReceive.receive from 9
+0:9:51.986831626 DEBUG (9): QueryAMSend.sendDone: True
+0:9:52.603515636 DEBUG (12): MsgTimer fired!
+0:9:52.603515636 DEBUG (12): MsgTimer.fired(): Task posted.
+0:9:52.603515646 DEBUG (12): sendQueryTask(): QueryAMSend.send success!
+0:9:52.607025147 DEBUG (6): QueryReceive.receive from 12
+0:9:52.607192992 DEBUG (12): QueryAMSend.sendDone: True
+0:9:52.729492198 DEBUG (8): MsgTimer fired!
+0:9:52.729492198 DEBUG (8): MsgTimer.fired(): Task posted.
+0:9:52.729492208 DEBUG (8): sendQueryTask(): QueryAMSend.send success!
+0:9:52.736907936 DEBUG (7): QueryReceive.receive from 8
+0:9:52.737075782 DEBUG (8): QueryAMSend.sendDone: True
+0:9:52.752929698 DEBUG (11): MsgTimer fired!
+0:9:52.752929698 DEBUG (11): MsgTimer.fired(): Task posted.
+0:9:52.752929708 DEBUG (11): sendQueryTask(): QueryAMSend.send success!
+0:9:52.761993376 DEBUG (11): QueryAMSend.sendDone: True
+0:9:52.890625010 DEBUG (4): MsgTimer fired!
+0:9:52.890625010 DEBUG (4): MsgTimer.fired(): Task posted.
+0:9:52.890625020 DEBUG (4): sendQueryTask(): QueryAMSend.send success!
+0:9:52.893539432 DEBUG (3): QueryReceive.receive from 4
+0:9:52.893707277 DEBUG (4): QueryAMSend.sendDone: True
+0:9:52.963867198 DEBUG (10): MsgTimer fired!
+0:9:52.963867198 DEBUG (10): MsgTimer.fired(): Task posted.
+0:9:52.963867208 DEBUG (10): sendQueryTask(): QueryAMSend.send success!
+0:9:52.974578815 DEBUG (5): QueryReceive.receive from 10
+0:9:52.974746661 DEBUG (10): QueryAMSend.sendDone: True
+0:9:53.517578135 DEBUG (7): MsgTimer fired!
+0:9:53.517578135 DEBUG (7): MsgTimer.fired(): Task posted.
+0:9:53.517578145 DEBUG (7): sendQueryTask(): QueryAMSend.send success!
+0:9:53.522445671 DEBUG (6): QueryReceive.receive from 7
+0:9:53.522613516 DEBUG (7): QueryAMSend.sendDone: True
+0:9:53.573242197 DEBUG (3): MsgTimer fired!
+0:9:53.573242197 DEBUG (3): MsgTimer.fired(): Task posted.
+0:9:53.573242207 DEBUG (3): sendQueryTask(): QueryAMSend.send success!
+0:9:53.575836186 DEBUG (2): QueryReceive.receive from 3
+0:9:53.576004032 DEBUG (3): QueryAMSend.sendDone: True
+0:9:54.252929698 DEBUG (6): MsgTimer fired!
+0:9:54.252929698 DEBUG (6): MsgTimer.fired(): Task posted.
+0:9:54.252929708 DEBUG (6): sendQueryTask(): QueryAMSend.send success!
+0:9:54.263198813 DEBUG (0): QueryReceive.receive from 6
+0:9:54.263366658 DEBUG (6): QueryAMSend.sendDone: True
+0:9:54.370117197 DEBUG (2): MsgTimer fired!
+0:9:54.370117197 DEBUG (2): MsgTimer.fired(): Task posted.
+0:9:54.370117207 DEBUG (2): sendQueryTask(): QueryAMSend.send success!
+0:9:54.372634893 DEBUG (6): QueryReceive.receive from 2
+0:9:54.372802738 DEBUG (2): QueryAMSend.sendDone: True
+0:9:54.411132823 DEBUG (5): MsgTimer fired!
+0:9:54.411132823 DEBUG (5): MsgTimer.fired(): Task posted.
+0:9:54.411132833 DEBUG (5): sendQueryTask(): QueryAMSend.send success!
+0:9:54.418121317 DEBUG (0): QueryReceive.receive from 5
+0:9:54.418289163 DEBUG (5): QueryAMSend.sendDone: True
+0:9:55.123046885 DEBUG (1): MsgTimer fired!
+0:9:55.123046885 DEBUG (1): MsgTimer.fired(): Task posted.
+0:9:55.123046895 DEBUG (1): sendQueryTask(): QueryAMSend.send success!
+0:9:55.126571654 DEBUG (0): QueryReceive.receive from 1
+0:9:55.126739500 DEBUG (1): QueryAMSend.sendDone: True
+0:9:55.937500010 DEBUG (0): MsgTimer fired!
+0:9:55.937500010 DEBUG (0): EPOCH:10-> sum: 590 | count: 25 | sum_squared: 15984 | avg: 23.60 | var: 82.40
+0:9:55.937500010 DEBUG (0): ## ROUND 10 ## 
